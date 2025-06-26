@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Data Files
+*.csv
+*.db
+*.sqlite3
+*.parquet
+*.json
+data/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode Settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
