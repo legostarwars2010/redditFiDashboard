@@ -1,1 +1,25 @@
-".env" 
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
