@@ -15,15 +15,17 @@ import plotly.graph_objects as go
 def load_data():
     merged_df = pd.read_csv("data/merged_data.csv", parse_dates=["Date"])
     text_df = pd.read_csv("data/reddit_text.csv", parse_dates=["created_utc"])
+    financial_df = pd.read_csv("data/financial_data.csv", parse_dates=["Date"])
     merged_df["Date"] = pd.to_datetime(merged_df["Date"]).dt.tz_localize(None)
     text_df["created_utc"] = pd.to_datetime(text_df["created_utc"]).dt.tz_localize(None)
-    return merged_df, text_df
+    financial_df["Date"] = pd.to_datetime(financial_df["Date"]).dt.tz_localize(None)
+    return merged_df, text_df, financial_df
 
-merged_df, text_df = load_data()
+merged_df, text_df, financial_df = load_data()
 
 # Sidebar filters
 st.sidebar.header("Filters")
-assets = st.sidebar.multiselect("Select Assets", options=merged_df["asset"].unique(), default=merged_df["asset"].unique())
+assets = st.sidebar.multiselect("Select Assets", options=financial_df["asset"].unique(), default=financial_df["asset"].unique())
 subreddits = st.sidebar.multiselect("Select Subreddits", options=merged_df["subreddit"].unique(), default=merged_df["subreddit"].unique())
 date_range = st.sidebar.date_input("Select Date Range", [])
 
@@ -40,74 +42,73 @@ if date_range and len(date_range) == 2:
         (text_df["subreddit"].isin(subreddits)) &
         (text_df["created_utc"] >= start_date) & (text_df["created_utc"] <= end_date)
     ]
+    fin_filtered = financial_df[
+        (financial_df["asset"].isin(assets)) &
+        (financial_df["Date"] >= start_date) & (financial_df["Date"] <= end_date)
+    ]
 else:
     df = merged_df[0:0]
     text_filtered = text_df[0:0]
+    fin_filtered = financial_df[0:0]
 
 # Header
 st.title("📉 Reddit Sentiment vs. Market Dashboard")
 st.write("Compare daily sentiment across subreddits against asset price changes.")
 
-if df.empty:
-    st.warning("No sentiment data available for selected subreddit and date range.")
+# Summary Headline
+if len(assets) == 1 and len(subreddits) == 1:
+    avg_sentiment = df["avg_compound"].mean()
+    sentiment_trend = "turned bearish" if avg_sentiment < -0.05 else "turned bullish" if avg_sentiment > 0.05 else "remained neutral"
+    st.markdown(f"### 📢 Summary: {assets[0]} prices vs sentiment in r/{subreddits[0]} — sentiment {sentiment_trend}.")
+
+# Summary from Groq
+st.subheader("📝 Summary of Sentiment and News")
+if not text_filtered.empty:
+    grouped = text_filtered.groupby("subreddit")
+    for name, group in grouped:
+        posts_df = group.sort_values("created_utc").copy()
+        if "text" not in posts_df.columns:
+            if "title" in posts_df.columns:
+                posts_df["text"] = posts_df["title"]
+            else:
+                st.warning(f"No usable text found for r/{name}.")
+                continue
+        posts_df.rename(columns={"title": "text"}, inplace=True)
+        summary = summarize_with_groq(posts_df, name)
+        st.markdown(f"**Summary for r/{name}:**")
+        st.write(summary)
 else:
-    # 1. Dynamic plain-English summary headline
-    if len(assets) == 1 and len(subreddits) == 1:
-        avg_sentiment = df["avg_compound"].mean()
-        sentiment_trend = "turned bearish" if avg_sentiment < -0.05 else "turned bullish" if avg_sentiment > 0.05 else "remained neutral"
-        st.markdown(f"### 📢 Summary: {assets[0]} prices vs sentiment in r/{subreddits[0]} — sentiment {sentiment_trend}.")
+    st.info("No post data to summarize in this date range.")
 
-    # 2. Summary from Groq
-    st.subheader("📝 Summary of Sentiment and News")
-    if not text_filtered.empty:
-        grouped = text_filtered.groupby("subreddit")
-        for name, group in grouped:
-            posts_df = group.sort_values("created_utc").copy()
-            if "text" not in posts_df.columns:
-                if "title" in posts_df.columns:
-                    posts_df["text"] = posts_df["title"]
-                else:
-                    st.warning(f"No usable text found for r/{name}.")
-                    continue
-            posts_df.rename(columns={"title": "text"}, inplace=True)
-            summary = summarize_with_groq(posts_df, name)
-            st.markdown(f"**Summary for r/{name}:**")
-            st.write(summary)
-    else:
-        st.info("No post data to summarize in this date range.")
+# Asset Price Over Time
+st.subheader("📈 Asset Price Over Time")
+for asset in assets:
+    asset_data = fin_filtered[fin_filtered["asset"] == asset]
+    if not asset_data.empty:
+        fig_price = px.line(
+            asset_data,
+            x="Date",
+            y="Close",
+            title=f"{asset} Closing Price Over Time",
+            labels={"Close": "Price", "Date": "Date"},
+            markers=True
+        )
+        st.plotly_chart(fig_price, use_container_width=True)
 
-    # 3. Asset Price Over Time (Standalone)
-    st.subheader("📈 Asset Price Over Time")
-    for asset in assets:
-        asset_data = df[df["asset"] == asset]
-        if not asset_data.empty:
-            fig_price = px.line(
-                asset_data,
-                x="Date",
-                y="Close",
-                title=f"{asset} Closing Price Over Time",
-                labels={"Close": "Price", "Date": "Date"},
-                markers=True
-            )
-            st.plotly_chart(fig_price, use_container_width=True)
+# Sentiment Over Time
+st.subheader("📊 Sentiment Over Time")
+sentiment_over_time = df.groupby(["Date", "subreddit"])["avg_compound"].mean().reset_index()
+fig2 = px.line(sentiment_over_time, x="Date", y="avg_compound", color="subreddit",
+               labels={"avg_compound": "Sentiment"}, markers=True)
+st.plotly_chart(fig2, use_container_width=True)
 
-    # 4. Sentiment Over Time (Line)
-    st.subheader("📊 Sentiment Over Time")
-    sentiment_over_time = df.groupby(["Date", "subreddit"])["avg_compound"].mean().reset_index()
-    fig2 = px.line(sentiment_over_time, x="Date", y="avg_compound", color="subreddit",
-                   labels={"avg_compound": "Sentiment"}, markers=True)
-    st.plotly_chart(fig2, use_container_width=True)
-
-# 5. Emotion Breakdown + Volume Overlay
+# Sentiment Emotion Breakdown and Volume
 st.subheader("🧪 Sentiment Emotion Mix and Volume")
-
-# Ensure correct types
 expected_cols = ["avg_pos", "avg_neg", "avg_neu", "Volume"]
 for col in expected_cols:
     if col in df.columns:
         df[col] = pd.to_numeric(df[col], errors="coerce")
 
-# Check if all required columns exist
 missing_cols = [col for col in expected_cols if col not in df.columns]
 if missing_cols:
     st.warning(f"Missing columns for emotion/volume analysis: {', '.join(missing_cols)}")
@@ -131,16 +132,17 @@ else:
     )
     st.plotly_chart(fig_emotion, use_container_width=True)
 
-# 6. Sentiment vs Price (Dual Axis)
+# Sentiment vs Price (Dual Axis)
 st.subheader("🪙 Sentiment vs. Asset Price Over Time")
 for subreddit in subreddits:
     for asset in assets:
-        data = df[(df["subreddit"] == subreddit) & (df["asset"] == asset)]
-        if not data.empty:
+        sentiment_data = df[(df["subreddit"] == subreddit) & (df["asset"] == asset)]
+        price_data = fin_filtered[fin_filtered["asset"] == asset]
+        if not sentiment_data.empty and not price_data.empty:
             fig = go.Figure()
-            fig.add_trace(go.Scatter(x=data["Date"], y=data["avg_compound"], name=f"Sentiment ({subreddit})",
+            fig.add_trace(go.Scatter(x=sentiment_data["Date"], y=sentiment_data["avg_compound"], name=f"Sentiment ({subreddit})",
                                      yaxis="y1", mode="lines+markers"))
-            fig.add_trace(go.Scatter(x=data["Date"], y=data["Close"], name=f"Close Price ({asset})",
+            fig.add_trace(go.Scatter(x=price_data["Date"], y=price_data["Close"], name=f"Close Price ({asset})",
                                      yaxis="y2", mode="lines+markers"))
             fig.update_layout(
                 title=f"{subreddit} Sentiment vs. {asset} Close Price",
@@ -150,7 +152,7 @@ for subreddit in subreddits:
             )
             st.plotly_chart(fig, use_container_width=True)
 
-# 7. Sentiment vs. % Change (Scatter)
+# Sentiment vs. % Change (Scatter)
 st.subheader("📌 Sentiment vs. % Price Change")
 st.write("Correlation between sentiment and asset price movement")
 fig1 = px.scatter(df, x="avg_compound", y="pct_change", color="subreddit",
