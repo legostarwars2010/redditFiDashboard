@@ -12,25 +12,45 @@ assets = {
     "Crude Oil": "CL=F"
 }
 
-# Date range (last 60 days)
+# Date range: past 90 days
 end_date = datetime.today()
-start_date = end_date - timedelta(days=60)
+start_date = end_date - timedelta(days=90)
 
-# Download and label data
+# Set interval
+interval = "1h"
+chunk_size = timedelta(days=29)  # ~720 hours
+
+# Download in chunks for each asset
 all_data = []
+
 for asset_name, ticker in assets.items():
     print(f"📥 Fetching {asset_name} ({ticker})")
-    df = yf.download(ticker, start=start_date.strftime("%Y-%m-%d"), end=end_date.strftime("%Y-%m-%d"))
-    
-    if df.empty:
-        print(f"⚠️ No data for {asset_name}, skipping.")
-        continue
+    chunk_start = start_date
 
-    df.reset_index(inplace=True)
-    df["asset"] = asset_name
-    df["ticker"] = ticker
-    df["pct_change"] = df["Close"].pct_change()
-    all_data.append(df)
+    while chunk_start < end_date:
+        chunk_end = min(chunk_start + chunk_size, end_date)
+        print(f" → {chunk_start.date()} to {chunk_end.date()}")
+
+        df = yf.download(
+            ticker,
+            start=chunk_start.strftime("%Y-%m-%d"),
+            end=chunk_end.strftime("%Y-%m-%d"),
+            interval=interval,
+            progress=False
+        )
+
+        if df.empty:
+            print(f"⚠️ No data for {asset_name} in this chunk, skipping.")
+            chunk_start += chunk_size
+            continue
+
+        df.reset_index(inplace=True)
+        df["asset"] = asset_name
+        df["ticker"] = ticker
+        df["pct_change"] = df["Close"].pct_change()
+        all_data.append(df)
+
+        chunk_start += chunk_size
 
 # Combine and save
 final_df = pd.concat(all_data, ignore_index=True)

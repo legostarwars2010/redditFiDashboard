@@ -1,13 +1,107 @@
 subreddit,title,created_utc,compound,neg,neu,pos
+worldnews,China's Guangxi deluged by flood-waters from upstream province,2025-06-27 00:39:46+00:00,0.0,0.0,1.0,0.0
+worldnews,Germany defends end to funding Mediterranean migrant rescues,2025-06-27 00:34:52+00:00,0.3182,0.0,0.753,0.247
+worldnews,"China hosts Iran, Russia defence ministers against backdrop of 'turmoil'",2025-06-27 00:33:34+00:00,-0.2732,0.21,0.672,0.118
+worldnews,South Korean intelligence says North Korea to deploy more troops to Russia,2025-06-27 00:14:35+00:00,0.4767,0.0,0.78,0.22
+worldnews,July deadline for tariffs may be extended,2025-06-27 00:06:23+00:00,0.0,0.0,1.0,0.0
+worldnews,China Reacts to 'Massive' NATO Warning,2025-06-26 07:53:27+00:00,-0.34,0.324,0.676,0.0
+worldnews,Deportation orders issued to 3 Iranian regime officials in Canada: CBSA,2025-06-26 04:47:20+00:00,0.0,0.0,1.0,0.0
+worldnews,EU Warns a Baseline Trump Tariff Would Still Spur Retaliation,2025-06-26 23:36:08+00:00,-0.1027,0.135,0.865,0.0
+worldnews,EU to launch accession talks with Moldova on July 4,2025-06-26 23:06:29+00:00,0.0,0.0,1.0,0.0
+worldnews,First train from Pyongyang arrives in Moscow after five-year hiatus,2025-06-26 23:01:54+00:00,0.0,0.0,1.0,0.0
+worldnews,Chinese MP7 becomes hot item among N. Korean youth,2025-06-26 22:53:55+00:00,0.0,0.0,1.0,0.0
+worldnews,Canada changes work permit eligibility for international students,2025-06-26 22:53:21+00:00,0.0,0.0,1.0,0.0
+worldnews,"Over 20,000 Russian soldiers prosecuted for refusing to fight in Ukraine, media reports",2025-06-26 22:25:15+00:00,-0.7845,0.441,0.559,0.0
+worldnews,PM set to announce welfare climbdown in deal with Labour rebels,2025-06-26 21:47:01+00:00,-0.2023,0.153,0.847,0.0
+worldnews,"Global energy CO2 emissions reached record high last year, report says",2025-06-26 21:30:15+00:00,0.3612,0.0,0.72,0.28
+worldnews,"Ukrainian drones strike Russian S-400 air defense system in occupied Crimea, HUR says",2025-06-26 21:00:22+00:00,0.0,0.107,0.786,0.107
+worldnews,"China aimed to sabotage Taiwanese vice president’s Czechia visit, intelligence confirms",2025-06-26 20:48:18+00:00,-0.0772,0.219,0.581,0.2
+worldnews,Netanyahu: Win over Iran created opportunity to expand peace deals that must be seized,2025-06-26 20:45:50+00:00,0.9246,0.0,0.385,0.615
+worldnews,EU mulls lowering tariffs on U.S. imports to reach trade deal - WSJ,2025-06-26 20:43:06+00:00,-0.2263,0.142,0.78,0.078
+worldnews,"Strikes on Iran's Fordow enrichment site rendered it inoperable, Israeli atomic agency claims",2025-06-26 20:35:16+00:00,-0.3612,0.172,0.828,0.0
+worldnews,"Israeli officials see ""significant"" damage to Iran's nuclear facilities",2025-06-26 20:35:16+00:00,-0.34,0.267,0.583,0.15
+worldnews,Greece battles wildfire in coastal town near capital,2025-06-26 20:34:51+00:00,-0.3818,0.271,0.729,0.0
+worldnews,Sikorski: Russia Pulls Majority of Troops from Kaliningrad - Militarnyi,2025-06-26 20:29:41+00:00,0.0,0.0,1.0,0.0
+worldnews,Ukrainian intelligence drones destroy Russian air defence systems in Crimea – video,2025-06-26 20:08:11+00:00,0.0,0.206,0.529,0.265
+worldnews,"China, India shift to higher-grade coal, cut Indonesian imports",2025-06-26 20:00:39+00:00,-0.2732,0.208,0.792,0.0
+worldnews,West Bank: Three Palestinians killed during Israeli settler attack,2025-06-26 19:42:09+00:00,-0.8225,0.521,0.479,0.0
+worldnews,Netanyahu thanks Trump for public call to cancel his corruption trial,2025-06-26 19:36:10+00:00,0.2263,0.144,0.647,0.209
+worldnews,BBC to start charging US-based consumers for news and TV coverage,2025-06-26 19:32:13+00:00,0.0,0.0,1.0,0.0
+worldnews,Details emerge of secret diplomatic efforts to restart Iran talks,2025-06-26 19:09:46+00:00,0.0,0.0,1.0,0.0
+worldnews,Nearly one-third of Tuvalu citizens seek to live in Australia on climate visa,2025-06-26 18:20:23+00:00,0.0,0.0,1.0,0.0
+worldnews,NSW politicians say cannabis decriminalisation inevitable after report points to unequal system,2025-06-26 18:10:08+00:00,-0.34,0.179,0.821,0.0
+worldnews,"US gained nothing from strikes, Iran's supreme leader says",2025-06-26 17:36:18+00:00,0.8079,0.0,0.419,0.581
+worldnews,"Over 20,000 Russian soldiers prosecuted for refusing to fight in Ukraine, media reports",2025-06-26 17:35:52+00:00,-0.7845,0.441,0.559,0.0
+worldnews,Indian investigators download black box data from fatal Air India crash,2025-06-26 17:26:25+00:00,-0.7351,0.408,0.592,0.0
+worldnews,Deportation orders issued to 3 Iranian regime officials in Canada: CBSA,2025-06-26 17:02:54+00:00,0.0,0.0,1.0,0.0
+worldnews,B.C.‘s premier says measles spikes across Canada a result anti-vax ‘recklessness’,2025-06-26 16:59:04+00:00,0.0,0.0,1.0,0.0
+worldnews,South Korea's Lee urges parliament to approve 'supplementary budget' to boost economy,2025-06-26 16:52:20+00:00,0.4019,0.0,0.803,0.197
+worldnews,AG says Netanyahu cannot pick next Shin Bet chief due to ongoing probes of aides,2025-06-26 16:42:14+00:00,0.0,0.0,1.0,0.0
+worldnews,"Ayatollah Khamenei says Iran dealt US 'severe slap', claims victory over Israel",2025-06-26 16:39:30+00:00,-0.25,0.183,0.704,0.113
+worldnews,Ursula von der Leyen faces no-confidence vote over Pfizergate,2025-06-26 16:27:53+00:00,0.0,0.0,1.0,0.0
+worldnews,Switzerland concerned about Russian satellite interference,2025-06-26 16:22:16+00:00,0.0,0.0,1.0,0.0
+worldnews,Spain: Top court backs amnesty for Catalan separatists,2025-06-26 16:19:16+00:00,0.1531,0.133,0.667,0.2
+worldnews,"Israel halts aid into northern Gaza, officials says, clans deny Hamas is stealing it",2025-06-26 16:06:33+00:00,-0.7269,0.337,0.663,0.0
+worldnews,Jamaica to take fight for slavery reparations to King Charles,2025-06-26 16:05:59+00:00,-0.8126,0.481,0.519,0.0
+worldnews,Iran’s Khamenei resurfaces to warn against future US attacks in first statement since ceasefire,2025-06-26 15:54:58+00:00,-0.5106,0.264,0.736,0.0
+worldnews,"No known intelligence that Iran moved uranium, US defense chief says",2025-06-26 15:42:19+00:00,-0.503,0.334,0.561,0.105
+worldnews,"Ukrainian forces halt Russian advance in Sumy region, says army chief",2025-06-26 15:33:06+00:00,0.0,0.0,1.0,0.0
+worldnews,Canada’s Youth Job Market Slumps Most Among Major Economies,2025-06-26 15:29:55+00:00,0.0,0.0,1.0,0.0
+worldnews,Russia Launches DDoS Attacks on Dutch Government Websites on Eve of NATO Summit,2025-06-26 15:23:01+00:00,-0.4404,0.195,0.805,0.0
+worldnews,UN urges renewed political and climate action in Libya amid humanitarian and governance crises,2025-06-26 15:21:30+00:00,0.0,0.0,1.0,0.0
+worldnews,"BYD slows production, delays capacity expansion at China factories, sources say",2025-06-26 15:12:13+00:00,0.0,0.0,1.0,0.0
+worldnews,Campaign to expand Abraham Accords sparks backlash after al-Sharaa appears with Netanyahu,2025-06-26 15:10:50+00:00,0.3182,0.0,0.827,0.173
+worldnews,Indian court rules trans women are women and ‘legally entitled to recognition’,2025-06-26 15:10:01+00:00,0.2732,0.0,0.84,0.16
+worldnews,Witkoff: Countries not previously contemplated will soon join Abraham Accords,2025-06-26 14:53:44+00:00,0.296,0.0,0.804,0.196
+worldnews,India refuses to sign SCO statement over claims of pro-Pakistan bias,2025-06-26 14:51:58+00:00,-0.1027,0.123,0.877,0.0
+worldnews,Polish foreign minister says arms race could bring down Putin’s regime like it did with USSR,2025-06-26 14:45:02+00:00,0.3612,0.0,0.857,0.143
+worldnews,Netanyahu asks court to postpone his corruption trial,2025-06-26 14:42:41+00:00,-0.2263,0.213,0.787,0.0
+worldnews,Switzerland wants to examine cooperation with the EU in the defence sector,2025-06-26 14:19:00+00:00,0.1027,0.0,0.887,0.113
+worldnews,"Ukraine, Council of Europe signed agreement to establish special tribunal for Russian aggression",2025-06-26 14:02:07+00:00,0.5719,0.122,0.552,0.326
+worldnews,Iran's Guardian Council Approves Suspension Of Cooperation With UN Nuclear Watchdog,2025-06-26 14:01:26+00:00,0.4019,0.0,0.787,0.213
+worldnews,International Astronomical Union awards PhD prize at-large to Kharkiv scientist who wrote PhD thesis under Russian attacks,2025-06-26 13:39:08+00:00,0.5267,0.125,0.603,0.272
+worldnews,"Russia reportedly helping North Korea build warships, but questions over seaworthiness remain after failed launch",2025-06-26 13:36:55+00:00,-0.6249,0.295,0.622,0.083
+worldnews,Ukraine calls for special court to try Russian war leaders – DW – 06/26/2025,2025-06-26 13:17:10+00:00,-0.296,0.21,0.645,0.145
+worldnews,"North Korea may send more troops to Russia in July or August for Ukraine war, Seoul says",2025-06-26 13:08:50+00:00,-0.5994,0.196,0.804,0.0
+worldnews,Russian Banks Fear Debt Crisis Is Coming as War Strains Economy,2025-06-26 12:39:32+00:00,-0.9423,0.726,0.274,0.0
+worldnews,West Bank: Three Palestinians killed during Israeli settler attack,2025-06-26 11:41:18+00:00,-0.8225,0.521,0.479,0.0
+worldnews,Cocaine use and production hits record high,2025-06-26 11:35:37+00:00,0.0,0.0,1.0,0.0
+worldnews,"Defiant Ayatollah claims victory for Iran after hostilities with Israel, U.S.",2025-06-26 11:19:04+00:00,-0.6124,0.357,0.643,0.0
+worldnews,Vietnam ends death penalty for 8 crimes,2025-06-26 10:41:19+00:00,-0.7845,0.58,0.42,0.0
+worldnews,"Pakistan developing a nuclear missile that could reach US, new report reveals",2025-06-26 10:00:18+00:00,0.0258,0.0,0.909,0.091
+worldnews,Iran turns to internal crackdown in wake of 12-day war,2025-06-26 09:53:11+00:00,-0.5994,0.302,0.698,0.0
+worldnews,Hun Sen urges frontline residents to dig trenches amid border tensions,2025-06-26 09:26:11+00:00,-0.4019,0.213,0.787,0.0
+worldnews,Putin’s henchmen now deeply ingrained at highest level of Slovakian government,2025-06-26 09:24:03+00:00,0.0,0.0,1.0,0.0
+worldnews,"EU leaders meet to discuss tougher Russia sanctions, US tariffs and Middle East",2025-06-26 09:08:16+00:00,0.1779,0.0,0.876,0.124
+worldnews,Ukraine and Council of Europe sign agreement to create tribunal to prosecute Putin over war — Meduza,2025-06-26 08:42:14+00:00,-0.3182,0.265,0.522,0.213
+worldnews,"Thailand, the first country in Asia to legalise cannabis, is re-criminalising recreational sales",2025-06-26 08:20:15+00:00,0.0,0.0,1.0,0.0
+worldnews,Trump's surprising exchange with Ukrainian reporter: 'Very upsetting',2025-06-26 08:12:51+00:00,-0.3167,0.295,0.522,0.183
+worldnews,Discovery of HMS Endeavour wreck confirmed,2025-06-26 08:09:42+00:00,-0.4404,0.367,0.633,0.0
+worldnews,"Thai PM, former Cambodian leader visit disputed border as tensions simmer",2025-06-26 08:05:36+00:00,-0.6249,0.362,0.638,0.0
+worldnews,Iran’s defense minister goes to China on first reported foreign trip since conflict with Israel,2025-06-26 07:46:31+00:00,-0.2023,0.137,0.774,0.089
+worldnews,China antigraft crackdown targets rare-earth producing areas,2025-06-26 07:39:20+00:00,0.0,0.0,1.0,0.0
+worldnews,North Korea to open beach resort as Kim Jong Un bets on tourism,2025-06-26 07:09:59+00:00,0.0,0.0,1.0,0.0
+worldnews,"Explosions Rock Moscow as 50 Drones Target Russian Regions, Vnukovo Flights Diverted",2025-06-26 06:53:38+00:00,0.0,0.0,1.0,0.0
+worldnews,Swiss government proposes restrictions on Ukrainian refugees,2025-06-26 06:31:03+00:00,0.0,0.0,1.0,0.0
+worldnews,Work-related mental health cases hit record high in Japan,2025-06-26 05:52:20+00:00,0.0,0.0,1.0,0.0
+worldnews,Mushroom jury to begin deliberations next week,2025-06-26 05:46:03+00:00,0.0,0.0,1.0,0.0
+worldnews,Russia still getting spare parts for aircrafts despite sanctions.,2025-06-26 05:37:37+00:00,0.0,0.0,1.0,0.0
+worldnews,Colombian waste pickers inundate iconic Bogota square with plastic bottles to protest falling wages,2025-06-26 05:27:24+00:00,-0.6597,0.368,0.632,0.0
+worldnews,"Astronauts from India, Poland, Hungary launched on first space station mission",2025-06-26 04:16:11+00:00,0.128,0.0,0.87,0.13
+worldnews,Trump criticizes Spain’s refusal to raise NATO spending,2025-06-26 04:08:03+00:00,-0.34,0.255,0.745,0.0
+worldnews,"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1218, Part 1 (Thread #1365)",2025-06-26 04:02:26+00:00,0.0,0.0,1.0,0.0
+worldnews,Putin's Billionaires Dodge Sanctions by Financing Lawsuits,2025-06-26 03:54:27+00:00,-0.1531,0.211,0.789,0.0
+worldnews,France's far-right leader Le Pen asks protégé Bardella to prepare for 2027 presidential run,2025-06-26 02:46:16+00:00,0.0,0.0,1.0,0.0
+worldnews,"S. Korea, NATO agree to establish consultative body on defense industry",2025-06-26 02:44:01+00:00,0.4588,0.0,0.692,0.308
+worldnews,Synthetic Human Genome Project gets go ahead,2025-06-26 02:41:16+00:00,0.0,0.0,1.0,0.0
+worldnews,"Drug kingpin ‘Fito,’ Ecuador’s most wanted man, has been captured, says Ecuador’s president",2025-06-26 02:23:32+00:00,0.0,0.0,1.0,0.0
+worldnews,Serbia halts all arms exports amid Russian scrutiny over Ukraine,2025-06-26 02:19:12+00:00,0.0,0.0,1.0,0.0
 worldnews,Israeli attacks kill at least 78 as Trump signals progress in Gaza talks,2025-06-26 00:35:57+00:00,-0.7003,0.373,0.49,0.137
-worldnews,Trump and Hegseth admit doubts about level of damage to Iranian nuclear sites,2025-06-26 00:30:45+00:00,-0.5574,0.314,0.581,0.105
 worldnews,At least 16 people dead as anti-government protests grip Kenya,2025-06-25 23:45:22+00:00,-0.7351,0.437,0.563,0.0
-worldnews,"Trump calls for cancellation of Netanyahu's trial, slams 'witch hunt'",2025-06-25 23:24:29+00:00,-0.3612,0.217,0.783,0.0
 worldnews,Israeli forces kill three Palestinians after settlers attack West Bank town,2025-06-25 23:02:27+00:00,-0.8316,0.464,0.536,0.0
 worldnews,"Just three years to limit global warming to 1.5C, top scientists warn",2025-06-25 22:39:52+00:00,0.25,0.101,0.652,0.246
 worldnews,Europeans still aren't buying Teslas with sales drop in Europe for fifth month in a row,2025-06-25 22:25:17+00:00,-0.2732,0.123,0.877,0.0
 worldnews,"World Bank approves $1bn for development projects in Iraq, Syria and Lebanon",2025-06-25 22:15:57+00:00,0.4019,0.0,0.803,0.197
-worldnews,Iran intensifies internal security crackdown with executions and mass arrests | Iran,2025-06-25 21:45:53+00:00,-0.128,0.19,0.654,0.157
 worldnews,"Russia Advancing Long-Term Economic Ties With India, Key Partners: Vladimir Putin",2025-06-25 20:52:03+00:00,0.0,0.0,1.0,0.0
 worldnews,CIA says intelligence indicates Iran's nuclear program severely damaged,2025-06-25 20:51:48+00:00,-0.4215,0.393,0.4,0.207
 worldnews,"Trump says US will meet with Iran next week, asserts nuke deal ‘no longer necessary’",2025-06-25 20:46:40+00:00,0.0,0.0,1.0,0.0
@@ -17,13 +111,11 @@ worldnews,Iran says nuclear sites ‘badly damaged’ amid conflicting reports o
 worldnews,"Tuesday’s Fête nationale holiday was the hottest June day in Montreal since records started, Environment Canada says.",2025-06-25 19:45:09+00:00,0.4019,0.0,0.856,0.144
 worldnews,At Least 8 Killed as Protesters Battle Police in Kenya,2025-06-25 18:43:28+00:00,-0.8402,0.562,0.438,0.0
 worldnews,"Israeli commandos operated inside Iran during war, IDF chief says",2025-06-25 18:39:30+00:00,-0.5994,0.302,0.698,0.0
-worldnews,"Trump: “Ukrainians do want Patriots, but we need them too”",2025-06-25 18:38:33+00:00,0.0387,0.0,0.887,0.113
 worldnews,Ukraine Unveils Its Own “KAB” Glide Bombs—Finally Hits Back at Russian Tactics,2025-06-25 18:29:46+00:00,0.0,0.0,1.0,0.0
 worldnews,Canada border bill: Advocacy groups express privacy concerns,2025-06-25 18:03:15+00:00,0.0,0.0,1.0,0.0
 worldnews,Zelenskyy after meeting with Trump: “We talked about the battlefield. Putin is definitely not winning”,2025-06-25 17:42:04+00:00,0.0258,0.142,0.71,0.148
 worldnews,Australian navy joins UK to conduct freedom of navigation exercises in contested South China Sea,2025-06-25 17:39:03+00:00,0.6369,0.0,0.769,0.231
 worldnews,NATO’s Rutte likens Trump to a ‘daddy’ in Israel-Iran conflict,2025-06-25 17:32:39+00:00,-0.3182,0.204,0.796,0.0
-worldnews,"Trump says US hit ended Iran-Israel war, uses ‘Hiroshima, Nagasaki’ example",2025-06-25 17:25:38+00:00,-0.5994,0.281,0.719,0.0
 worldnews,"Putin will not go to BRICS summit in Brazil due to ICC arrest warrant, Kremlin aide says",2025-06-25 16:59:20+00:00,-0.34,0.13,0.87,0.0
 worldnews,Canadian border agency investigating dozens of cases of potential Iranian officials allowed into Canada,2025-06-25 16:25:21+00:00,0.0,0.0,1.0,0.0
 worldnews,Shell considers acquiring BP in potential mega oil deal - WSJ,2025-06-25 16:00:46+00:00,0.0,0.0,1.0,0.0
@@ -38,7 +130,6 @@ worldnews,Early US intelligence report suggests US strikes only set back Iran’
 worldnews,"'Jai Iran-Jai Hind': Iran embassy claims victory, thanks India for support",2025-06-25 14:37:17+00:00,0.6808,0.0,0.616,0.384
 worldnews,NATO defence spending: Canada commits to 5% pledge,2025-06-25 14:20:43+00:00,0.128,0.0,0.706,0.294
 worldnews,"Pro Cannabis Groups in Thailand Say Proposed Recriminalization of Cannabis is Purely Political, Urge Proper Passing of Laws",2025-06-25 14:07:13+00:00,0.0,0.0,1.0,0.0
-worldnews,Brussels moves to tackle satellite junk in space,2025-06-25 13:32:26+00:00,0.0,0.0,1.0,0.0
 worldnews,Trump declares Iran 'victory for everybody' despite doubts over damage,2025-06-25 13:24:20+00:00,0.5448,0.0,0.639,0.361
 worldnews,"Thailand moves to recriminalise cannabis, shaking $1 billion industry",2025-06-25 13:23:58+00:00,-0.1779,0.175,0.825,0.0
 worldnews,Russia frees REvil hackers after sentencing,2025-06-25 13:18:10+00:00,0.1531,0.205,0.513,0.282
@@ -64,7 +155,6 @@ worldnews,Talk of regime change resonates with Iranians fleeing across border,20
 worldnews,Putin authorises creation of state messaging app to combat WhatsApp and Telegram,2025-06-25 08:03:14+00:00,-0.0772,0.166,0.69,0.145
 worldnews,India sends its first astronaut into space after 41 years,2025-06-25 07:50:42+00:00,0.0,0.0,1.0,0.0
 worldnews,"PACE calls on Russia to uphold prisoner swaps, condemns abuse of Ukrainian captives.""The Parliamentary Assembly of the Council of Europe (PACE) has called on the international community to support negotiations between Ukraine and Russia for the swift exchange and release of all prisoners of war.""",2025-06-25 07:44:50+00:00,-0.9403,0.3,0.626,0.074
-worldnews,Iran's parliament approves bill to suspend cooperation with UN nuclear watchdog,2025-06-25 07:28:46+00:00,0.1027,0.164,0.643,0.193
 worldnews,Indian Navy to commission stealth ship Tamal on July 1 in Russia,2025-06-25 07:27:21+00:00,-0.0772,0.106,0.894,0.0
 worldnews,China's Xi to skip BRICS summit in Brazil,2025-06-25 07:19:39+00:00,0.0,0.0,1.0,0.0
 worldnews,Uk to purchase nuclear carrying fighter jet,2025-06-25 07:19:17+00:00,0.1531,0.0,0.789,0.211
@@ -74,7 +164,6 @@ worldnews,"Canada, EU sign defense pact that could enable joint weapons work",20
 worldnews,Norway to develop and produce USV in Ukraine,2025-06-25 06:57:34+00:00,0.0,0.0,1.0,0.0
 worldnews,US intelligence report suggests US strikes on Iran only setback nuclear programme by months,2025-06-25 06:08:29+00:00,0.1531,0.142,0.682,0.176
 worldnews,Seven IDF soldiers killed in Khan Yunis explosion,2025-06-25 05:31:35+00:00,-0.6705,0.391,0.609,0.0
-worldnews,UK to buy 12 nuclear-carrying F-35A jets from the United States and join NATO nuclear mission,2025-06-25 04:59:16+00:00,0.6124,0.0,0.737,0.263
 worldnews,Turkish Tourism Faces Criticism Over Declining Quality and Controversial Nightlife in Marmaris,2025-06-25 04:43:30+00:00,-0.5719,0.32,0.68,0.0
 worldnews,"Cuban regime intensifies its ""exemplary trials"" for drug and violence offenses",2025-06-25 04:37:08+00:00,-0.765,0.423,0.577,0.0
 worldnews,Iran arrests European accused of spying for Israel – Fars News,2025-06-25 04:23:59+00:00,-0.6249,0.362,0.638,0.0
@@ -527,7 +616,6 @@ worldnews,Iran blames Israel for hacking state TV broadcast with calls for upris
 worldnews,"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1211, Part 1 (Thread #1358)",2025-06-19 04:02:37+00:00,0.0,0.0,1.0,0.0
 worldnews,"Putin says NATO rearmament not a threat, willing to meet Zelenskyy",2025-06-19 03:42:04+00:00,0.4168,0.0,0.783,0.217
 worldnews,"N. Korea sets new S. Korea policy, views military pact as key test",2025-06-19 02:51:38+00:00,0.0,0.0,1.0,0.0
-worldnews,'No space for Bezos': Venetians protest Amazon founder's grandiose wedding plan,2025-06-19 02:01:16+00:00,-0.0772,0.157,0.709,0.134
 worldnews,"Honda conducts surprise reusable rocket test, aims spaceflight by 2029",2025-06-19 01:37:55+00:00,0.2732,0.0,0.811,0.189
 worldnews,"'No-bra, no-exam' rule at Nigerian university sparks outrage",2025-06-19 01:25:25+00:00,-0.5106,0.32,0.68,0.0
 worldnews,"FMs of France, Germany and UK to meet Iranian counterpart for nuclear talks",2025-06-19 01:18:01+00:00,0.0,0.0,1.0,0.0
@@ -811,86 +899,35 @@ worldnews,US Embassy in Israel sustains minor damage after Iranian missile strik
 worldnews,N. Korean women take the wheel in quiet push for independence,2025-06-16 05:28:05+00:00,0.0,0.0,1.0,0.0
 worldnews,EU urges Trump to ditch trade war as G7 kicks off,2025-06-16 05:24:53+00:00,-0.5994,0.281,0.719,0.0
 worldnews,India Prime Minister Modi visits Cyprus to advance trade corridor plans,2025-06-16 04:42:18+00:00,0.0,0.0,1.0,0.0
-worldnews,"World’s nuclear arsenals expanding, driven by US and Russia, researchers warns",2025-06-16 04:26:19+00:00,-0.1027,0.123,0.877,0.0
-worldnews,Australia to hold talks aimed at entering defence pact with EU,2025-06-16 04:08:05+00:00,0.1027,0.0,0.877,0.123
-worldnews,U.S. Forward Deploys Dozens of Aerial Tankers Amid Possible Entry Into Israel-Iran War,2025-06-16 04:05:52+00:00,-0.5994,0.245,0.755,0.0
-worldnews,"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1208, Part 1 (Thread #1355)",2025-06-16 04:02:25+00:00,0.0,0.0,1.0,0.0
-worldnews,"Stocks, dollar show resilience in Asia as oil gains",2025-06-16 03:48:32+00:00,0.34,0.0,0.769,0.231
-worldnews,"Israeli fire kills at least 41 people in Gaza, local health authorities report",2025-06-16 03:35:59+00:00,-0.7096,0.349,0.651,0.0
-worldnews,S. Korea Holds Emergency Meeting after US Imposes 50% Tariff on Appliances,2025-06-16 03:26:40+00:00,-0.4588,0.286,0.714,0.0
-worldnews,Britain’s MI6 spy agency gets its first female chief,2025-06-16 03:19:44+00:00,0.0,0.0,1.0,0.0
-worldnews,Taiwan adds China’s Huawei and SMIC to export control list,2025-06-16 03:09:46+00:00,0.0,0.0,1.0,0.0
-worldnews,"China's nuclear arsenal hits 600 warheads, up 100 from year before",2025-06-16 03:06:18+00:00,0.0,0.0,1.0,0.0
-worldnews,"Khamenei and his family hiding in bunker north of Tehran, sources say",2025-06-16 02:47:49+00:00,-0.296,0.167,0.833,0.0
-worldnews,Barnaby Joyce calls for ‘contingency plan’ as US reviews AUKUS,2025-06-16 01:40:33+00:00,0.0,0.0,1.0,0.0
-worldnews,"Stranded Israelis told not to go to Larnaca, Athens; not to use Egypt, Jordan land crossings",2025-06-16 01:14:01+00:00,0.0,0.0,1.0,0.0
-worldnews,Indians stuck in Iran demand pause in Israel-Iran fight so they could be evacuated,2025-06-16 00:19:06+00:00,-0.6249,0.357,0.643,0.0
-worldnews,Zelenskyy warns oil price surge could help Russia's war effort,2025-06-15 23:10:51+00:00,-0.3818,0.353,0.467,0.18
-worldnews,Mali's government adopts bill granting junta leader 5 more years in power,2025-06-15 23:06:13+00:00,0.4588,0.0,0.714,0.286
-worldnews,Journalists identify Russian soldiers suspected in Bucha civilian massacre,2025-06-15 22:58:39+00:00,-0.2263,0.192,0.808,0.0
-worldnews,Cambodia turns to World Court over Thailand border disputes,2025-06-15 22:41:43+00:00,-0.2732,0.208,0.792,0.0
-worldnews,Hundreds of protesters gather in downtown Calgary on first day of G7 in Alberta,2025-06-15 22:22:54+00:00,-0.2263,0.128,0.872,0.0
-worldnews,Macron Offers Aid For Greenland Security Amid Trump Threats,2025-06-15 21:52:51+00:00,-0.1027,0.23,0.574,0.197
-worldnews,"AUKUS submarine deal faces bigger tests than Trump's 'America first' review, US and UK experts warn",2025-06-15 21:09:53+00:00,-0.1027,0.085,0.915,0.0
-worldnews,Russia responds to Israel's strikes on Iran: 'full-scale war' possible,2025-06-15 21:03:43+00:00,-0.7506,0.444,0.556,0.0
-worldnews,"In longest reach of war, Israel destroys Iranian plane 2,300 km away",2025-06-15 20:26:17+00:00,-0.8126,0.426,0.511,0.062
-worldnews,Satellite imagery reveals damage to key Iran nuclear sites,2025-06-15 19:21:33+00:00,-0.4939,0.286,0.714,0.0
-worldnews,Peronism plans ‘largest march in recent history’ to accompany CFK to court - Buenos Aires Herald,2025-06-15 19:19:51+00:00,0.0,0.0,1.0,0.0
-worldnews,"Ukraine’s General Staff confirms strike on drone production facility in Yelabuga, Russia",2025-06-15 19:14:25+00:00,-0.128,0.12,0.88,0.0
-worldnews,"Islamic State reactivating fighters, eying comeback in Syria and Iraq",2025-06-15 19:00:33+00:00,-0.0516,0.118,0.882,0.0
-worldnews,"Anti-tourism protests break out in Spain, Italy and Portugal | World News",2025-06-15 18:56:01+00:00,-0.2263,0.147,0.853,0.0
-worldnews,Taiwan blacklists Huawei and SMIC,2025-06-15 18:49:07+00:00,0.0,0.0,1.0,0.0
-worldnews,Chennai-bound British Airways Boeing 787-8 returns to London after ‘technical snag’,2025-06-15 18:32:03+00:00,0.0,0.0,1.0,0.0
-worldnews,"Netanyahu says regime change in Iran ""could certainly be the result"" of Israel's attacks",2025-06-15 17:58:58+00:00,-0.128,0.168,0.694,0.139
-worldnews,"'Canada is an independent, sovereign country': Starmer backs Carney against Trump",2025-06-15 16:49:17+00:00,-0.0516,0.107,0.893,0.0
-worldnews,Top IRGC intelligence command reportedly eliminated in Tehran strike,2025-06-15 16:36:58+00:00,0.5267,0.121,0.484,0.395
-worldnews,"Trump vetoed Israeli plan to kill Iranian supreme leader, US officials state",2025-06-15 16:24:13+00:00,-0.2732,0.257,0.546,0.197
-worldnews,Israel hits aerial refueling plane in Iran’s Mashhad in ‘longest-range strike’,2025-06-15 15:54:18+00:00,0.0,0.0,1.0,0.0
-worldnews,Iran reports 5 car bomb explosions in Tehran by Israel,2025-06-15 15:50:57+00:00,-0.4939,0.262,0.738,0.0
-worldnews,"US-China tech race is top intel priority, CIA official says",2025-06-15 15:43:23+00:00,0.2023,0.0,0.833,0.167
-worldnews,Trump “open” to Putin mediating between Israel and Iran,2025-06-15 15:24:37+00:00,0.0,0.0,1.0,0.0
-worldnews,"French president touches down in Greenland, in solidarity with territory eyed by Trump",2025-06-15 15:00:24+00:00,0.296,0.0,0.845,0.155
-worldnews,Starmer and Carney look to cut UK-Canada trade barriers,2025-06-15 15:00:02+00:00,-0.2732,0.208,0.792,0.0
-worldnews,Carney Flexes Economy-First Foreign Policy as G-7 Meets in Canada,2025-06-15 14:51:28+00:00,0.0,0.0,1.0,0.0
-worldnews,"Russian strike hit Boeing office in Kyiv in deliberate attack on US business, FT reports",2025-06-15 14:27:32+00:00,-0.5574,0.261,0.739,0.0
-worldnews,Israel claims it has gained control of airspace over Tehran,2025-06-15 14:21:55+00:00,0.3818,0.0,0.776,0.224
-worldnews,Ruag reaches deal with German firm on 25 disputed Leopard tanks,2025-06-15 13:57:55+00:00,-0.296,0.19,0.714,0.095
-worldnews,Israel and Iran trade strikes for a third day as nuclear talks are called off,2025-06-15 13:51:35+00:00,-0.3612,0.152,0.848,0.0
-worldnews,"Taiwan adds China's Huawei, SMIC to export control list",2025-06-15 13:34:33+00:00,0.0,0.0,1.0,0.0
-worldnews,"China’s Wang Yi decries ‘unacceptable’ Israeli attack on Iran, urges political resolution",2025-06-15 13:23:00+00:00,-0.4767,0.22,0.78,0.0
-worldnews,Beijing’s top Taiwan official warns independence forces will bring ‘disaster’ to island,2025-06-15 13:22:21+00:00,0.1027,0.106,0.758,0.136
-worldnews,Ukraine's Defence Intelligence cuts power to Russian defence industry facilities in Kaliningrad – source,2025-06-15 12:44:11+00:00,0.4019,0.122,0.552,0.326
-worldnews,Starmer confirms military buildup in Middle East as Europe urges restraint,2025-06-15 12:32:42+00:00,0.0,0.0,1.0,0.0
-worldnews,Japan condemns Israel's attack on Iran for 'escalating situation',2025-06-15 12:24:40+00:00,-0.7506,0.478,0.522,0.0
-worldnews,"Trump and Putin hold call, discuss Iran-Israel tensions, Ukraine war - CBS News",2025-06-15 12:21:51+00:00,-0.765,0.375,0.625,0.0
-worldnews,"Khamenei's top aide planning to flee Iran, held secret talks with Russia: Report",2025-06-15 12:20:01+00:00,0.2023,0.0,0.87,0.13
-worldnews,Tel Aviv shares turn higher as economy stays open amid Israel-Iran attacks,2025-06-15 11:48:52+00:00,-0.1779,0.192,0.662,0.146
-worldnews,Turkey Rejects Claims Linking Its Firm To Crashed Air India Dreamliner,2025-06-15 11:31:30+00:00,-0.4939,0.242,0.758,0.0
-worldnews,Cyprus says it has been asked by Iran to convey 'some messages' to Israel,2025-06-15 11:15:05+00:00,0.0,0.0,1.0,0.0
-worldnews,"Power cut off in Russia's Kaliningrad in sabotage operation, Ukrainian military intelligence says",2025-06-15 11:07:28+00:00,-0.34,0.296,0.538,0.167
-worldnews,Israel-Iran conflict set to dominate G7 summit,2025-06-15 11:07:10+00:00,-0.4215,0.432,0.568,0.0
-worldnews,"Russian air attack damaged Boeing offices in Ukraine, FT reports",2025-06-15 11:00:46+00:00,-0.7184,0.429,0.571,0.0
-worldnews,Israel found Iran carried out key tests for nuke design ahead of strikes -- report,2025-06-15 10:22:30+00:00,-0.3612,0.152,0.848,0.0
-worldnews,Our enemy is your enemy: Netanyahu praises Donald Trump on his birthday; posts a video message amid Israel-Iran conflict,2025-06-15 10:12:04+00:00,-0.7096,0.336,0.542,0.123
-worldnews,"Gunmen kill at least 100 people in Nigeria's Benue state, Amnesty International says",2025-06-15 10:07:29+00:00,-0.6908,0.281,0.719,0.0
-worldnews,Former French President Sarkozy stripped of national honor,2025-06-15 09:44:11+00:00,0.4939,0.0,0.686,0.314
-worldnews,Iranian Civilians Asked to Evacuate Weapons Sites by Israel,2025-06-15 09:35:52+00:00,-0.4404,0.266,0.734,0.0
-worldnews,South Korea turns off propaganda loudspeakers to North Korea,2025-06-15 09:25:55+00:00,-0.25,0.2,0.8,0.0
-worldnews,"Germany, France and UK ready to hold talks with Iran, says German minister",2025-06-15 09:17:02+00:00,0.3612,0.0,0.828,0.172
-worldnews,Israel and Iran strike at each other as Trump says conflict can be easily ended,2025-06-15 09:15:13+00:00,-0.1027,0.209,0.659,0.132
-worldnews,British F-35 makes emergency landing at Indian airport after running low on fuel,2025-06-15 08:23:47+00:00,-0.5719,0.299,0.701,0.0
-worldnews,Nuclear Talks Called Off As Iran Warns of Stronger Response If Israeli Attacks Persist,2025-06-15 08:22:36+00:00,-0.1779,0.24,0.615,0.145
-worldnews,‘It’s not a genuine apology’: Spanish women reject Catholic attempt to redress Franco incarceration,2025-06-15 08:20:23+00:00,-0.4019,0.172,0.828,0.0
-worldnews,South Korea moves to punish ‘defiant’ activists sending leaflets to North Korea,2025-06-15 07:53:37+00:00,-0.5267,0.236,0.764,0.0
-worldnews,European powers offer Iran immediate talks on nuclear program,2025-06-15 07:23:29+00:00,0.0,0.0,1.0,0.0
-worldnews,IDF Arabic spokesperson issues evacuation notice to Iranians for the first time: 'Stay away from weapon production plants',2025-06-15 07:04:08+00:00,-0.296,0.115,0.885,0.0
-worldnews,Zelenskyy announces liberation of Andriivka in Sumy Oblast,2025-06-15 06:59:14+00:00,0.0,0.0,1.0,0.0
-worldnews,"British F-35 Fighter Jet Makes Emergency Landing At Kerala Airport, India",2025-06-15 06:38:39+00:00,-0.25,0.197,0.682,0.121
-worldnews,Macron visits Greenland in show of European unity and signal to Trump,2025-06-15 06:15:44+00:00,0.0,0.0,1.0,0.0
-worldnews,The first trial of its kind: A Russian soldier takes the stand for an execution,2025-06-15 05:59:57+00:00,0.5267,0.0,0.805,0.195
-worldnews,UK moves jets to Middle East as Starmer refuses to rule out defending Israel,2025-06-15 05:07:01+00:00,0.0,0.0,1.0,0.0
-worldnews,Israeli Military Apologises Over Wrong India Map After Huge Online Backlash,2025-06-15 04:11:29+00:00,0.0,0.204,0.526,0.27
-worldnews,"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1207, Part 1 (Thread #1354)",2025-06-15 04:02:24+00:00,0.0,0.0,1.0,0.0
+news,"Bill Moyers, LBJ White House press secretary and legendary journalist, dead at 91",2025-06-26 22:52:14+00:00,-0.6486,0.264,0.736,0.0
+news,"NCAA considering proposal to allow college athletes, staff to bet on professional sports",2025-06-26 23:18:51+00:00,0.2263,0.0,0.863,0.137
+news,Brad Pitt's Los Angeles home burglarized: Law enforcement sources,2025-06-26 22:37:03+00:00,0.0,0.0,1.0,0.0
+news,Kim Kardashian 'grandpa robber' dies one month after conviction,2025-06-26 20:26:33+00:00,-0.5574,0.31,0.69,0.0
+news,"Bill Moyers, the former White House press secretary turned acclaimed TV journalist, dead at 91",2025-06-26 20:20:25+00:00,-0.6486,0.235,0.765,0.0
+news,BBC to start charging US-based consumers for news and TV coverage,2025-06-26 19:32:32+00:00,0.0,0.0,1.0,0.0
+news,GE Appliances moves washing machine production from China to Kentucky with $490 million investment,2025-06-26 19:31:12+00:00,0.0,0.0,1.0,0.0
+news,"A Canadian has died in ICE custody, cause under investigation",2025-06-26 19:09:43+00:00,-0.5574,0.286,0.714,0.0
+news,RFK Jr’s new vaccine panel votes against preservative in flu shots in shock move,2025-06-26 18:46:37+00:00,-0.6369,0.302,0.698,0.0
+news,Double-decker bus carrying students plunges into English river,2025-06-26 18:40:56+00:00,0.0,0.0,1.0,0.0
+news,Kennedy says US is pulling funding from global vaccine group Gavi,2025-06-26 18:21:23+00:00,0.0,0.0,1.0,0.0
+news,Nestle USA to phase out use of synthetic food colors by mid-2026,2025-06-26 17:49:43+00:00,0.0,0.0,1.0,0.0
+news,University of Toronto may host some international students from Harvard,2025-06-26 17:38:32+00:00,0.0,0.0,1.0,0.0
+news,Chicago White Sox ban fan who brought Ketel Marte to tears with taunt about late mother,2025-06-26 17:16:44+00:00,-0.4939,0.264,0.625,0.111
+news,Child Q: Two Met Police officers sacked over strip search of 15-year-old schoolgirl.,2025-06-26 17:14:56+00:00,0.0,0.0,1.0,0.0
+news,Critical hurricane forecast tool abruptly terminated,2025-06-26 16:32:23+00:00,-0.3182,0.315,0.685,0.0
+news,Spain: Top court backs amnesty for Catalan separatists,2025-06-26 16:19:44+00:00,0.1531,0.133,0.667,0.2
+news,Supreme Court lets red states target Planned Parenthood funding | CNN Politics,2025-06-26 16:01:17+00:00,0.5574,0.0,0.753,0.247
+news,"US economy shrank 0.5% between January and March, worse than 2 earlier estimates had revealed",2025-06-26 13:20:20+00:00,-0.4767,0.181,0.819,0.0
+news,ICE arrested a 6-year-old boy with leukemia at immigration court. His family is suing.,2025-06-26 13:02:57+00:00,-0.6369,0.302,0.698,0.0
+news,College graduates face toughest job market in more than a decade as hiring slows,2025-06-26 12:50:24+00:00,-0.0772,0.091,0.909,0.0
+news,Man who killed London schoolboy with samurai sword is convicted of murder,2025-06-26 11:19:39+00:00,-0.8807,0.479,0.521,0.0
+news,Hundreds of weight loss and diabetes jab users report pancreas problems,2025-06-26 09:01:29+00:00,-0.6124,0.357,0.643,0.0
+news,"Man accused of kicking K9 at Dulles International Airport so hard ""he was lifted off of the ground"" - CBS News",2025-06-26 08:28:39+00:00,-0.4707,0.176,0.824,0.0
+news,Meta wins AI copyright lawsuit as US judge rules against authors,2025-06-26 08:06:09+00:00,0.4215,0.13,0.616,0.253
+news,Touts employ overseas workers to bulk-buy gig tickets,2025-06-26 05:21:34+00:00,-0.0258,0.136,0.864,0.0
+news,Harvard scientist accused of smuggling frog embryos indicted on new charges,2025-06-26 04:21:50+00:00,-0.7506,0.481,0.519,0.0
+news,Synthetic Human Genome Project gets go ahead,2025-06-26 02:40:42+00:00,0.0,0.0,1.0,0.0
+news,"Drug kingpin ‘Fito,’ Ecuador’s most wanted man, has been captured, says Ecuador’s president",2025-06-26 01:33:07+00:00,0.0,0.0,1.0,0.0
 news,"Billionaires’ wealth surged $6.5tn over past decade, Oxfam reports",2025-06-25 23:57:12+00:00,0.4939,0.0,0.714,0.286
 news,11 people killed in mass shooting at religious festival in Mexican city plagued by cartel turf wars,2025-06-25 23:08:52+00:00,-0.7096,0.32,0.553,0.126
 news,Family members outraged as U.S. citizen detained by federal agents in downtown LA on way to work,2025-06-25 23:02:40+00:00,-0.7351,0.292,0.708,0.0
@@ -904,7 +941,6 @@ news,Early US intelligence report suggests US strikes only set back Iran’s nuc
 news,"Giuliani, Lewandowski among new members of Homeland Security advisory council",2025-06-25 13:21:32+00:00,0.34,0.0,0.789,0.211
 news,Czech authorities detain 5 teens over online radicalization by IS and charge 2 with terror plot,2025-06-25 13:21:21+00:00,-0.7351,0.307,0.693,0.0
 news,"Sexcam industry recruited us while we were schoolgirls, say models",2025-06-25 12:47:46+00:00,0.0,0.0,1.0,0.0
-news,‘Ticking time bomb’: Ice detainee dies in transit as experts say more deaths likely,2025-06-25 07:06:10+00:00,0.0,0.0,1.0,0.0
 news,"ICE holding a record 59,000 immigrant detainees, nearly half with no criminal record, internal data show",2025-06-25 06:09:01+00:00,0.4168,0.0,0.844,0.156
 news,Andrew Cuomo concedes New York City Democratic mayoral primary to Zohran Mamdani,2025-06-25 02:39:26+00:00,0.0,0.0,1.0,0.0
 news,Federal Court finds ABC acted improperly in firing Antoinette Lattouf,2025-06-25 00:50:53+00:00,-0.34,0.211,0.789,0.0
@@ -1168,26 +1204,39 @@ news,"Alabama sheriff arrested for hiring uncertified officers, including one ac
 news,Greta Thunberg departs Israel on flight to Paris after detention aboard aid ship,2025-06-10 09:18:46+00:00,-0.34,0.171,0.753,0.075
 news,Indian Navy Rescues crew members from Singapore-flagged MV Wan Hai Cargo vessel fire,2025-06-10 07:40:32+00:00,-0.0258,0.153,0.701,0.146
 news,"Trump authorizes additional 2,000 National Guard members to Los Angeles, US officials say",2025-06-10 01:22:13+00:00,0.0,0.0,1.0,0.0
-news,"Abbotsford man with charges in 2 prior fatal crashes gets $1,000 driving fine",2025-06-09 23:58:12+00:00,-0.5859,0.322,0.575,0.103
-news,Six killed in small plane crash off the San Diego coast,2025-06-09 23:14:50+00:00,-0.802,0.444,0.556,0.0
-news,Graffiti on tank in Trump’s parade calls for hanging 2 well-known Americans,2025-06-09 20:40:25+00:00,0.0,0.0,1.0,0.0
-news,TMU under fire over abuse claims,2025-06-09 21:26:43+00:00,-0.765,0.623,0.377,0.0
-news,"Pentagon to deploy 700 Marines to Los Angeles, official says",2025-06-09 21:05:40+00:00,0.0,0.0,1.0,0.0
-news,"Sly Stone, visionary funk frontman of the Family Stone, has died at age 82",2025-06-09 20:39:55+00:00,-0.0516,0.189,0.632,0.179
-news,RFK Jr. removes all members of CDC panel advising U.S. on vaccines,2025-06-09 20:23:22+00:00,0.0,0.0,1.0,0.0
-news,Labor unions around US demand release of union leader arrested in LA protest,2025-06-09 19:51:11+00:00,-0.6808,0.398,0.602,0.0
-news,The Day Of The Jackal author Frederick Forsyth dies,2025-06-09 19:50:29+00:00,0.0,0.0,1.0,0.0
-news,California AG says he is suing Trump over 'unlawful' National Guard order,2025-06-09 18:32:57+00:00,-0.2732,0.16,0.84,0.0
-news,University of Michigan ends undercover surveillance contracts after Guardian revelations,2025-06-09 18:51:21+00:00,0.0,0.0,1.0,0.0
-news,"SpaceX Starship debris washes up on Mexican beach, prompting investigation",2025-06-09 18:38:59+00:00,0.0,0.0,1.0,0.0
-news,Justin Baldoni's lawsuit against Blake Lively dismissed by federal judge,2025-06-09 17:46:40+00:00,0.25,0.148,0.625,0.227
-news,FBI adds LA protester to its ‘Most Wanted’ list for damaging government vehicles,2025-06-09 16:50:05+00:00,-0.5106,0.216,0.784,0.0
-news,Dr. Phil was embedded with ICE during controversial Los Angeles immigration raids,2025-06-09 14:34:37+00:00,-0.2023,0.141,0.859,0.0
-news,NIH scientists publish declaration criticizing Trump's deep cuts in public health research,2025-06-09 14:23:14+00:00,-0.5719,0.32,0.68,0.0
+investing,"401(k) Rollover – Got 2 Checks, Want to Confirm Which IRA They Go To",2025-06-27 00:07:23+00:00,0.0772,0.0,0.909,0.091
+investing,New ETF for Government Grift,2025-06-27 00:05:01+00:00,0.0,0.0,1.0,0.0
+investing,TIAA just changed my allocation in all retirement accounts without my permission. Did anybody else have this happen in the past?,2025-06-26 22:32:15+00:00,0.0,0.0,1.0,0.0
+investing,BLND - highly levered to interest rate decline,2025-06-26 21:46:02+00:00,0.5046,0.0,0.682,0.318
+investing,Do Europeans invest in primarily European stocks?,2025-06-26 21:12:01+00:00,0.0,0.0,1.0,0.0
+investing,Thoughts on Using a Margin Loan to Buy a Rental Property?,2025-06-26 20:08:26+00:00,0.0,0.0,1.0,0.0
+investing,What portfolio size would you stop buying individual stocks and just VOO and chill?,2025-06-26 19:25:23+00:00,-0.296,0.145,0.855,0.0
+investing,HSA and Covered California for parent and dependent,2025-06-26 18:03:22+00:00,0.0,0.0,1.0,0.0
+investing,$NKE Earnings Today: Why Nike’s About to Lace Up and RUN! [DD],2025-06-26 17:49:44+00:00,0.0,0.0,1.0,0.0
+investing,Rate my diversification strategy where,2025-06-26 17:30:25+00:00,0.0,0.0,1.0,0.0
+investing,What to do as European with US stocks and fx risk?,2025-06-26 17:27:47+00:00,-0.2732,0.174,0.826,0.0
+investing,What would the penalties be for cashing out a very small ROTH?,2025-06-26 17:15:58+00:00,0.0,0.0,1.0,0.0
+investing,What are your thoughts on palladium right now?,2025-06-26 17:05:18+00:00,0.0,0.0,1.0,0.0
+investing,Custodial Brokerage Account Question,2025-06-26 15:44:07+00:00,0.0,0.0,1.0,0.0
+investing,Looking for a good investment company to switch to.,2025-06-26 15:07:52+00:00,0.4404,0.0,0.734,0.266
+investing,Need advice on when and when not to take profits,2025-06-26 14:43:09+00:00,-0.3412,0.211,0.789,0.0
+investing,"For those who sold out of the market earlier this year, do you still stand by your decision?",2025-06-26 13:42:26+00:00,0.0,0.0,1.0,0.0
+investing,What’s the most powerful investing insight you’ve ever learned in just one sentence?,2025-06-26 12:35:39+00:00,0.5256,0.0,0.715,0.285
+investing,Buying into a fund with a large spread,2025-06-26 12:12:03+00:00,0.0,0.0,1.0,0.0
+investing,What’s the most niche investment you have made money on?,2025-06-26 11:12:46+00:00,0.0,0.0,1.0,0.0
+investing,All World - Questions & Understanding,2025-06-26 08:53:32+00:00,0.0,0.0,1.0,0.0
+investing,"Daily General Discussion and Advice Thread - June 26, 2025",2025-06-26 08:00:56+00:00,0.0,0.0,1.0,0.0
+investing,5x leveraged ETF in different currency - bad tracking?,2025-06-26 07:36:35+00:00,-0.5423,0.304,0.696,0.0
+investing,The false belief in diversification,2025-06-26 06:06:34+00:00,0.0,0.0,1.0,0.0
+investing,Black Swan in the Chinese corporate bond market?,2025-06-26 05:17:20+00:00,0.0,0.0,1.0,0.0
+investing,This was shocking to find out: Bitcoin’s volatility/drawdown was identical to QQQ….but it has also vastly outperformed both SP500 and QQQ year-to-date,2025-06-26 03:16:41+00:00,-0.4019,0.114,0.886,0.0
+investing,Multiple portfolios or one single?,2025-06-26 03:10:55+00:00,0.0,0.0,1.0,0.0
+investing,IRA FEES - Through my financial advisor v. robhinhood brokerage,2025-06-26 02:51:51+00:00,0.0,0.0,1.0,0.0
+investing,College kid - Roth IRA or normal brokerage?,2025-06-26 02:32:37+00:00,0.0,0.0,1.0,0.0
+investing,Can someone smarter than me tell me why I shouldn’t invest in IDMO over VXUS?,2025-06-26 01:39:03+00:00,0.4588,0.0,0.824,0.176
 investing,ChatGPT in investing process,2025-06-26 00:44:53+00:00,0.0,0.0,1.0,0.0
 investing,How Do I start? And where? I'm in Taiwan,2025-06-25 22:21:08+00:00,0.0,0.0,1.0,0.0
 investing,Is palladium the most asymmetric bet in commodities right now,2025-06-25 22:01:14+00:00,0.0,0.0,1.0,0.0
-investing,If You Don't Think AI is Very Bubbly...,2025-06-25 21:51:56+00:00,0.0,0.0,1.0,0.0
 investing,How to model a 90/10 portfolio that only uses cash for bear market withdrawals,2025-06-25 21:20:52+00:00,0.0,0.0,1.0,0.0
 investing,Is The S&P 500 Really All I Need?,2025-06-25 21:13:57+00:00,0.0,0.0,1.0,0.0
 investing,How to get a loved one to see the benefit to investing early,2025-06-25 20:53:33+00:00,0.7845,0.0,0.615,0.385
@@ -1216,7 +1265,6 @@ investing,Buy US ETFs/Stocks from yen directly or convert yen to USD then buy?,2
 investing,Get rid of Schwab Intelligent Portfolio?,2025-06-25 00:55:45+00:00,0.4588,0.0,0.625,0.375
 investing,Owner finance property or lump sum?,2025-06-25 00:27:11+00:00,0.0,0.0,1.0,0.0
 investing,Leveraging my Roth IRA through Lifecycle Investing | Q2 2025,2025-06-25 00:18:07+00:00,0.0,0.0,1.0,0.0
-investing,Seeking Advice: Financial Advisor Has Ignored Multiple Requests,2025-06-24 23:28:17+00:00,-0.3182,0.247,0.753,0.0
 investing,"Selling NVDA, buying RDDT & HOOD",2025-06-24 22:49:10+00:00,0.0,0.0,1.0,0.0
 investing,Theory Question: Strike Price for Maximum Profit on OTM Options,2025-06-24 21:10:58+00:00,0.34,0.121,0.645,0.234
 investing,Summer correction incoming?,2025-06-24 20:55:01+00:00,0.0,0.0,1.0,0.0
@@ -1250,7 +1298,6 @@ investing,Is Royalty Pharma a Buy? What Am I missing here? Any red flags u can s
 investing,Why is 3x sp500 ETF bad over 15 plus years?,2025-06-24 04:34:04+00:00,-0.5423,0.28,0.72,0.0
 investing,Do Small Cap ETFs really make sense? Don't we lose the winneres as they grow?,2025-06-24 03:36:53+00:00,0.3855,0.0,0.842,0.158
 investing,how to distribute 2K a month,2025-06-24 03:19:49+00:00,0.0,0.0,1.0,0.0
-investing,Wash sale scenario question,2025-06-24 00:24:26+00:00,0.0,0.0,1.0,0.0
 investing,My portfolio MWR is 25% and TWR  is 35% - how to interpret the gap?,2025-06-23 23:31:32+00:00,0.0,0.0,1.0,0.0
 investing,Would I be obligated to purchase cash secured puts if this happens,2025-06-23 23:06:50+00:00,0.4019,0.0,0.803,0.197
 investing,Where to invest for my HSA,2025-06-23 21:51:14+00:00,0.0,0.0,1.0,0.0
@@ -1283,7 +1330,6 @@ investing,Advice about ethical investing?,2025-06-22 18:14:37+00:00,0.5106,0.0,0
 investing,Is gold any better than other assets in a global crisis scenario?,2025-06-22 18:14:16+00:00,-0.128,0.232,0.508,0.26
 investing,Roth IRA or continue with 401k?,2025-06-22 17:01:06+00:00,0.0,0.0,1.0,0.0
 investing,Oil stocks - given current developments- TY,2025-06-22 13:59:43+00:00,0.516,0.0,0.643,0.357
-investing,Keep 21k in fund or go for riskier stocks?,2025-06-22 09:49:52+00:00,-0.34,0.231,0.769,0.0
 investing,Anyone else here self-taught in managing their own investments after a windfall or inheritance? How’s it going for you?,2025-06-22 09:31:43+00:00,0.0,0.0,1.0,0.0
 investing,"Daily General Discussion and Advice Thread - June 22, 2025",2025-06-22 08:01:08+00:00,0.0,0.0,1.0,0.0
 investing,Should I add Roth and/or IRA to my portfolio?,2025-06-22 04:14:34+00:00,0.0,0.0,1.0,0.0
@@ -1376,7 +1422,6 @@ investing,What is an alternative to voo that is much cheaper but tracks the same
 investing,"When buying stocks for individual companies, how many shares do you buy with your initial investment?",2025-06-17 13:30:49+00:00,0.296,0.0,0.872,0.128
 investing,If you had 100€ what would you buy? (I would just like to start),2025-06-17 13:09:33+00:00,0.3612,0.0,0.839,0.161
 investing,What brokerage will allow you to receive more than 1 IPO share at launch?,2025-06-17 12:01:44+00:00,0.4767,0.0,0.745,0.255
-investing,Reducing overexposure in retirement portfolio,2025-06-17 11:31:19+00:00,0.0,0.0,1.0,0.0
 investing,Struggling to Decide on Portfolio Allocation,2025-06-17 09:38:08+00:00,-0.4215,0.359,0.641,0.0
 investing,"Daily General Discussion and Advice Thread - June 17, 2025",2025-06-17 09:01:16+00:00,0.0,0.0,1.0,0.0
 investing,Advice on where to continue investing,2025-06-17 02:56:02+00:00,0.0,0.0,1.0,0.0
@@ -2099,25 +2144,39 @@ investing,Anyone here using a tool to track gold/silver gains in real time?,2025
 investing,MVST Earnings Report today?,2025-05-12 09:20:16+00:00,0.0,0.0,1.0,0.0
 investing,"Daily General Discussion and Advice Thread - May 12, 2025",2025-05-12 09:01:18+00:00,0.0,0.0,1.0,0.0
 investing,Non Residency based insurance platforms - UK resident moving abroad,2025-05-12 07:50:46+00:00,0.0,0.0,1.0,0.0
-investing,Tariff on China drops to 30% for 90 days.,2025-05-12 07:27:31+00:00,0.0,0.0,1.0,0.0
-investing,"Low return, safe stocks in Trading 212?",2025-05-12 06:23:45+00:00,0.2023,0.21,0.5,0.29
-investing,Best money market: SGOV or VMFXX,2025-05-12 02:58:09+00:00,0.6369,0.0,0.543,0.457
-investing,Retirement investing question,2025-05-11 22:07:09+00:00,0.0,0.0,1.0,0.0
-investing,Is BroadCom a Solid Company to Add to the Roth??,2025-05-11 22:06:16+00:00,0.2406,0.0,0.821,0.179
-investing,I may not have enough equities in my portfolio,2025-05-11 21:58:03+00:00,0.0,0.0,1.0,0.0
-investing,Has your opinion on Bitcoin shifted in the past 5 years?,2025-05-11 19:40:20+00:00,0.0,0.0,1.0,0.0
-investing,Time for a more defensive allocation?,2025-05-11 19:14:48+00:00,0.101,0.0,0.782,0.218
-investing,Is interest on cash really dangerous? (Trading 212),2025-05-11 19:12:42+00:00,-0.101,0.274,0.484,0.242
-investing,"What Dividend Stocks/Funds/ETFS Would You Invest in to Achieve $2,500 a Month Income?",2025-05-11 15:08:55+00:00,0.0,0.0,1.0,0.0
-investing,Some (claims of ) progress on the Trade deal front with China,2025-05-11 13:35:17+00:00,0.4215,0.0,0.797,0.203
-investing,"$100K windfall, 6.7% mortgage",2025-05-11 12:17:13+00:00,0.0,0.0,1.0,0.0
-investing,"Daily General Discussion and Advice Thread - May 11, 2025",2025-05-11 09:01:30+00:00,0.0,0.0,1.0,0.0
-investing,Is there a way to find my deceased father’s stock portfolio?,2025-05-11 05:32:40+00:00,0.0,0.0,1.0,0.0
-investing,"Elizabeth Holmes is in prison for defrauding investors through her blood-testing company, Theranos. In the meantime, her partner is starting one of his own.",2025-05-11 04:24:52+00:00,-0.5106,0.125,0.875,0.0
-investing,"If you inherited $500,000 would you invest or pay off your mortgage?",2025-05-11 02:17:02+00:00,-0.1027,0.113,0.887,0.0
-investing,Don't sign up with Invest with Corey.  He scammed me and he will scam you.,2025-05-11 01:46:55+00:00,-0.5719,0.209,0.791,0.0
-investing,Has anyone heard of smartlab. International. My Dad just invested a sizeable amount into it. Did he just lose his money?,2025-05-11 00:28:27+00:00,-0.4019,0.119,0.881,0.0
-investing,"Is investing in stocks already heavily favored by ETFs smart? Furthermore, is 100% stock portfolios worth the risk?",2025-05-10 20:19:59+00:00,0.6868,0.088,0.587,0.325
+stocks,RKLB Electron’s 67th Launch “Get the Hawk Outta Here” Deploys HawkEye 360 Cluster 12 – 9th Mission of 2025,2025-06-26 23:58:53+00:00,0.0,0.0,1.0,0.0
+stocks,Why is nobody talking about the steady 6 month slide on the dollar index?,2025-06-26 22:56:08+00:00,0.0,0.0,1.0,0.0
+stocks,How Vibes Became a Nearly Undefeated Economic Indicator,2025-06-26 21:51:17+00:00,0.0,0.0,1.0,0.0
+stocks,The best alpha left is pretending you’re not looking for alpha,2025-06-26 21:42:53+00:00,0.6808,0.0,0.616,0.384
+stocks,General mills stock,2025-06-26 21:39:25+00:00,0.0,0.0,1.0,0.0
+stocks,What companies would benefit the most from heavy interest rate cuts and ensuing inflation?,2025-06-26 21:17:24+00:00,0.6204,0.113,0.565,0.322
+stocks,Treasury Deal Halts ‘Revenge Tax’ That Spooked Wall Street,2025-06-26 20:18:01+00:00,0.2023,0.0,0.816,0.184
+stocks,"Any stocks/companies publicly traded that deal with plastic cleanup/energy, that sort of deal?",2025-06-26 19:50:01+00:00,0.0,0.0,1.0,0.0
+stocks,"Since sentiment on here is so bullish, let’s talk bear cases",2025-06-26 18:38:37+00:00,0.0,0.0,1.0,0.0
+stocks,$NKE Earnings Today: Why Nike’s About to Lace Up and RUN!  [DD],2025-06-26 17:46:50+00:00,0.0,0.0,1.0,0.0
+stocks,Apple conviction or giving up?,2025-06-26 17:38:43+00:00,0.34,0.0,0.625,0.375
+stocks,What happened to PEP vs KO in mid 2024?,2025-06-26 17:31:13+00:00,0.0,0.0,1.0,0.0
+stocks,"What are some ways to diversify alternatives to high valued ETFs, when you can no longer afford them?",2025-06-26 17:22:45+00:00,0.1779,0.104,0.758,0.137
+stocks,USD devaluation,2025-06-26 17:07:30+00:00,0.0,0.0,1.0,0.0
+stocks,Amazon loses AWS generative AI boss as tech talent shuffle heats up,2025-06-26 16:10:23+00:00,0.296,0.146,0.57,0.285
+stocks,Why Stocks Are Better for Most People Than Options? From Warren Buffett to your portfolio,2025-06-26 16:03:31+00:00,0.4404,0.0,0.828,0.172
+stocks,Musk Confidant Afshar Exits Tesla in Latest High-Level Departure,2025-06-26 15:48:35+00:00,0.0,0.0,1.0,0.0
+stocks,How rotten AAPL can bounce again.,2025-06-26 15:43:46+00:00,-0.5106,0.398,0.602,0.0
+stocks,It feels like gold has peaked,2025-06-26 14:41:43+00:00,0.3612,0.0,0.667,0.333
+stocks,NAVITAS SEMICONDUCTOR,2025-06-26 14:30:19+00:00,0.0,0.0,1.0,0.0
+stocks,Rolls Royce phenomenon,2025-06-26 13:21:26+00:00,0.0,0.0,1.0,0.0
+stocks,Any hidden fees with being a PDT?,2025-06-26 13:17:20+00:00,0.0,0.0,1.0,0.0
+stocks,Any recommendations for services for good trade recommendations without margin?,2025-06-26 13:11:06+00:00,0.4404,0.0,0.756,0.244
+stocks,"Why does it always seem like stocks are ""over valued""?",2025-06-26 12:13:12+00:00,0.6597,0.0,0.597,0.403
+stocks,Pfizer’s Phase 3 Hympavzi Trial Met Primary Endpoint,2025-06-26 11:40:35+00:00,0.0,0.0,1.0,0.0
+stocks,All World - Questions & Understanding,2025-06-26 09:44:15+00:00,0.0,0.0,1.0,0.0
+stocks,"r/Stocks Daily Discussion & Options Trading Thursday - Jun 26, 2025",2025-06-26 09:30:31+00:00,0.0,0.0,1.0,0.0
+stocks,ASML as a partial hedge for NVDA?,2025-06-26 06:41:31+00:00,0.0,0.0,1.0,0.0
+stocks,The false belief in diversification,2025-06-26 06:06:58+00:00,0.0,0.0,1.0,0.0
+stocks,Treasury yields are falling quickly ahead of the OBBBA senate vote. Is the bond market predicting the bill doesn't pass the senate?,2025-06-26 04:35:09+00:00,0.0516,0.068,0.855,0.077
+stocks,what percentage of cash are you holding now?,2025-06-26 03:46:49+00:00,0.0,0.0,1.0,0.0
+stocks,"Going full $VOO, $VGT and $SCHD",2025-06-26 03:26:34+00:00,0.0,0.0,1.0,0.0
+stocks,$UNH HOLDERS,2025-06-26 02:19:40+00:00,0.0,0.0,1.0,0.0
 stocks,"Insurance & insuretech bloodbath LMND, ROOT",2025-06-26 00:15:21+00:00,0.0,0.0,1.0,0.0
 stocks,Should I buy company stock?,2025-06-25 22:52:13+00:00,0.0,0.0,1.0,0.0
 stocks,How to do effective research to make sure you invest in the right stocks for you?,2025-06-25 21:43:18+00:00,0.6597,0.0,0.722,0.278
@@ -2131,7 +2190,6 @@ stocks,Trump Threatens NATO Allies With Higher Military Spending Or Trade Taxes 
 stocks,TSLA down again EU sales drop 5 months straight,2025-06-25 16:37:09+00:00,-0.0516,0.191,0.636,0.173
 stocks,What is everyone’s thoughts on Shopify stock right now?,2025-06-25 16:22:41+00:00,0.0,0.0,1.0,0.0
 stocks,CRCL meltdown - technical analysis,2025-06-25 16:16:49+00:00,0.0,0.0,1.0,0.0
-stocks,How can we ban too much propaganda and hype on this sub?,2025-06-25 16:06:36+00:00,-0.6808,0.359,0.641,0.0
 stocks,Portfolio hedger weighs PLTR as volatility anchor,2025-06-25 15:56:40+00:00,0.0,0.0,1.0,0.0
 stocks,"Question about wash sale. The more I trade, I paranoid. It bothers me, if anyone can help.",2025-06-25 15:32:16+00:00,-0.0258,0.185,0.683,0.132
 stocks,Tesla's European car sales nosedive for fifth month as customers switch to Chinese EVs,2025-06-25 14:13:41+00:00,0.0,0.0,1.0,0.0
@@ -2181,7 +2239,6 @@ stocks,Tesla’s Robotaxi stunt backfires,2025-06-24 04:57:24+00:00,0.0,0.0,1.0,
 stocks,Futures Jump with Peace Agreement.,2025-06-24 03:08:10+00:00,0.7717,0.0,0.309,0.691
 stocks,Don’t fall for the doom and gloom: We aren’t close to a recession right now,2025-06-24 01:53:35+00:00,-0.8442,0.431,0.569,0.0
 stocks,Why is VOO more talked about over VTI? Which would you say is the better option?,2025-06-24 00:51:49+00:00,0.504,0.0,0.821,0.179
-stocks,Wash sale help,2025-06-24 00:25:06+00:00,0.4019,0.0,0.426,0.574
 stocks,Anyone buying Fiserv?,2025-06-24 00:03:10+00:00,0.0,0.0,1.0,0.0
 stocks,Any guesses on when MSFT will split shares?,2025-06-23 22:48:09+00:00,0.296,0.0,0.761,0.239
 stocks,Give me reasons not to be a bear.,2025-06-23 20:51:17+00:00,0.0,0.0,1.0,0.0
@@ -2941,24 +2998,16 @@ stocks,Trump tells Walmart to 'eat the tariffs' instead of raising prices,2025-0
 stocks,"How can the middle class be dying, consumer debt all time highs, median salary has less purchasing power than ever, etc., yet record profits",2025-05-17 15:06:46+00:00,0.1027,0.091,0.803,0.106
 stocks,Investing in the reconstruction of Ukraine?,2025-05-17 14:32:26+00:00,0.0,0.0,1.0,0.0
 stocks,"/r/Stocks Weekend Discussion Saturday - May 17, 2025",2025-05-17 09:30:37+00:00,0.0,0.0,1.0,0.0
-stocks,Genuine question,2025-05-17 04:40:49+00:00,0.0,0.0,1.0,0.0
-stocks,There’s no denying it now: Tariffs are raising prices,2025-05-17 04:40:41+00:00,0.2584,0.0,0.797,0.203
-stocks,Bargain Bulls - Thank Me Later,2025-05-17 02:28:46+00:00,0.5106,0.0,0.482,0.518
-stocks,Tesla limits investors' ability to sue over breach of fiduciary duties,2025-05-17 01:38:19+00:00,0.3182,0.0,0.813,0.187
-stocks,HEDGE Funds may be on to something.,2025-05-16 23:42:21+00:00,0.0,0.0,1.0,0.0
-stocks,Stock Review: Insulet: PODD,2025-05-16 23:40:17+00:00,0.0,0.0,1.0,0.0
-stocks,UNH insiders (directors and executives) buy over $30m of the beaten down stock,2025-05-16 23:08:34+00:00,-0.4215,0.189,0.811,0.0
-stocks,Seeing More Ads from Big Players on Reddit Recently,2025-05-16 22:33:41+00:00,0.0,0.0,1.0,0.0
-stocks,what data is used for volume on SPX ?,2025-05-16 21:57:30+00:00,0.0,0.0,1.0,0.0
-stocks,US credit rating has been downgraded,2025-05-16 21:10:58+00:00,0.3818,0.0,0.658,0.342
-stocks,Can someone critique my stock strategy,2025-05-16 20:54:44+00:00,0.0,0.0,1.0,0.0
-stocks,"Nvidia, Cisco and OpenAI are backing the UAE Stargate data center project",2025-05-16 19:27:57+00:00,0.0258,0.0,0.909,0.091
-stocks,what's your market view from now on?,2025-05-16 19:20:53+00:00,0.0,0.0,1.0,0.0
-stocks,Applied digital (APLD) is up 23% today and almost doubled since the crash last month (99%),2025-05-16 18:49:02+00:00,-0.4019,0.153,0.847,0.0
-stocks,Why Tesla is another Enron - How can a company with a valuation equal to the world's seven largest automakers Earnings Catch-up,2025-05-16 18:07:46+00:00,0.0,0.0,1.0,0.0
-stocks,Hypothetical: what if “stocks only go up” was actually true?,2025-05-16 16:29:12+00:00,0.4215,0.0,0.763,0.237
-stocks,(05/16) Interesting Stocks Today - Medical Madness and Mergers,2025-05-16 13:14:41+00:00,-0.0516,0.23,0.556,0.214
-stocks,Could warren buffett be buying GOOG lately?,2025-05-16 12:03:37+00:00,0.0,0.0,1.0,0.0
+StockMarket,New way to join the ‘grift’,2025-06-27 00:12:45+00:00,0.296,0.0,0.694,0.306
+StockMarket,S&P 500 Trades At Record Highs—And History Says The Best Is Yet To Come (UPDATED),2025-06-26 20:22:25+00:00,0.6369,0.0,0.769,0.231
+StockMarket,This Sushi stock is rolling along the Bollinger Bands like a pro,2025-06-26 17:33:33+00:00,0.3612,0.0,0.815,0.185
+StockMarket,Shall I Buy It For A Target Of 355 and Above??,2025-06-26 14:42:13+00:00,0.0,0.0,1.0,0.0
+StockMarket,The US economy shrank much faster in the first quarter than previously reported | CNN Business,2025-06-26 13:48:53+00:00,0.0,0.0,1.0,0.0
+StockMarket,What could go wrong,2025-06-26 13:03:28+00:00,-0.4767,0.508,0.492,0.0
+StockMarket,Helping 70YO father pick,2025-06-26 12:54:01+00:00,0.296,0.0,0.577,0.423
+StockMarket,"Daily General Discussion and Advice Thread - June 26, 2025",2025-06-26 11:01:26+00:00,0.0,0.0,1.0,0.0
+StockMarket,DXY Potantial Reverse Zone ?,2025-06-26 08:26:53+00:00,0.0,0.0,1.0,0.0
+StockMarket,US Dollar Index Under $97,2025-06-26 06:51:51+00:00,0.0,0.0,1.0,0.0
 StockMarket,(06/25) Breakouts and Breakdowns - Interesting Stocks Today!,2025-06-25 13:13:00+00:00,0.4574,0.0,0.701,0.299
 StockMarket,"Daily General Discussion and Advice Thread - June 25, 2025",2025-06-25 11:01:09+00:00,0.0,0.0,1.0,0.0
 StockMarket,"Stock market today: Trade setup for Nifty 50, global markets to Israel-Iran news; eight stocks to buy or sell on Tuesday | Stock Market News",2025-06-25 09:05:55+00:00,0.4019,0.0,0.899,0.101
@@ -3353,7 +3402,6 @@ StockMarket,This Chinese company shrugs off trade tension to surge in stock debu
 StockMarket,"Daily General Discussion and Advice Thread - May 21, 2025",2025-05-21 09:00:39+00:00,0.0,0.0,1.0,0.0
 StockMarket,"European Markets: Rally or Algorithmic Illusion? The European Squeeze No One’s Talking About : EWG, EWQ, EWL, EWP, EWI, EWN, EWD, EWO, EWK, EIRL, ENOR, EPOL",2025-05-21 08:13:25+00:00,-0.296,0.081,0.919,0.0
 StockMarket,Inverse Cramer then,2025-05-21 07:58:33+00:00,0.0,0.0,1.0,0.0
-StockMarket,What should I invest in? 20 years old,2025-05-21 05:37:32+00:00,0.0,0.0,1.0,0.0
 StockMarket,G-7 Countries Discussing De Minimis Tariffs on Chinese Goods,2025-05-21 02:36:29+00:00,0.0,0.0,1.0,0.0
 StockMarket,Foxconn to Build 100 MW AI Data Center With Nvidia (NVDA),2025-05-20 22:27:37+00:00,0.0,0.0,1.0,0.0
 StockMarket,"JPMorgan CEO Jamie Dimon says markets are too complacent on tariffs, expects S&P 500 earnings growth to collapse",2025-05-20 22:13:10+00:00,-0.2263,0.204,0.679,0.118
@@ -3458,7 +3506,6 @@ StockMarket,Goldman Sach not reporting trades,2025-05-15 06:02:26+00:00,0.0,0.0,
 StockMarket,UnitedHealth drops 8% after hours amid criminal investigation for possible Medicare fraud,2025-05-15 00:36:18+00:00,-0.802,0.419,0.581,0.0
 StockMarket,Foot Locker Surges 65% After-Hours on Reported Dick's Buyout Deal,2025-05-14 22:00:18+00:00,0.0,0.0,1.0,0.0
 StockMarket,The U.S.-China ‘deal’ is no deal. The U.S. just blinked.,2025-05-14 20:30:11+00:00,-0.296,0.196,0.804,0.0
-StockMarket,Nvidia shares hit new highs: benefiting from Saudi Arabia's multi-billion dollar AI chip investment plan; the US plans to revoke the Biden administration's chip restrictions,2025-05-14 18:51:50+00:00,0.296,0.0,0.916,0.084
 StockMarket,Roche says Trump's drug price order threatens its $50 billion US investment plans,2025-05-14 18:29:36+00:00,-0.3818,0.178,0.822,0.0
 StockMarket,S&P 500 is little changed as traders try to build on strong rebound from April low: Live updates,2025-05-14 17:42:39+00:00,0.296,0.098,0.748,0.154
 StockMarket,Treasury yields move higher as investors weigh the state of the U.S. economy,2025-05-14 17:33:09+00:00,0.2023,0.0,0.87,0.13
@@ -3868,23 +3915,36 @@ StockMarket,I'm sure most have seen this chart but... damn.,2025-04-28 09:42:56+
 StockMarket,"Daily General Discussion and Advice Thread - April 28, 2025",2025-04-28 09:01:21+00:00,0.0,0.0,1.0,0.0
 StockMarket,Is the next great depression or a great recession incoming? Experts say that signs are showing and history is repeating itself,2025-04-28 08:22:14+00:00,0.4019,0.205,0.536,0.259
 StockMarket,"It’s not new , not an increase nor surprising.",2025-04-28 02:42:45+00:00,-0.4168,0.35,0.65,0.0
-StockMarket,Top tier list if new uptrend continues,2025-04-28 00:35:17+00:00,0.2023,0.0,0.769,0.231
-StockMarket,SPY's Pullback and using 2022 Lows for Fib level Retracements,2025-04-27 20:38:48+00:00,-0.2023,0.167,0.833,0.0
-StockMarket,$VIX also has 2 scenarios,2025-04-27 19:52:15+00:00,0.0,0.0,1.0,0.0
-StockMarket,Personal Debt Default - What will cripple the US economy if Trump Tariffs don't disappear,2025-04-27 19:48:37+00:00,-0.2105,0.146,0.757,0.097
-StockMarket,Intraday volatility at level only seen five times in 30 years.,2025-04-27 19:20:55+00:00,0.0,0.0,1.0,0.0
-StockMarket,$SPY has 2 Scenarios playing,2025-04-27 19:17:29+00:00,0.2023,0.0,0.69,0.31
-StockMarket,$SPX is at a major crossroads / $SPY is at critical long-term support,2025-04-27 18:04:16+00:00,0.1027,0.144,0.688,0.169
-StockMarket,Donald Trump announces tariffs to continue and replace taxes - Red Monday likely,2025-04-27 16:47:28+00:00,0.0,0.0,1.0,0.0
-StockMarket,Green opening tomorrow,2025-04-27 16:15:56+00:00,0.0,0.0,1.0,0.0
-StockMarket,Trump Floats New Income Tax Cut in Bid to Ease Bite of Tariffs,2025-04-27 16:12:13+00:00,0.1027,0.135,0.705,0.16
-StockMarket,Congress Top Buys/Sells published for the month of April.,2025-04-27 14:52:36+00:00,0.2023,0.0,0.816,0.184
-StockMarket,"China's Huawei develops new AI chip, seeking to match Nvidia, WSJ reports",2025-04-27 14:49:07+00:00,0.0,0.0,1.0,0.0
-StockMarket,Trump's Tariff Team,2025-04-27 14:36:40+00:00,0.0,0.0,1.0,0.0
-StockMarket,Declining containers into LA,2025-04-27 14:29:40+00:00,0.0,0.0,1.0,0.0
-StockMarket,Are you interested by European Stock Market ?,2025-04-27 11:31:49+00:00,0.4019,0.0,0.722,0.278
-StockMarket,"Daily General Discussion and Advice Thread - April 27, 2025",2025-04-27 09:00:55+00:00,0.0,0.0,1.0,0.0
-StockMarket,"Geopolitical events, Q4 earnings likely to drive markets this week",2025-04-27 05:20:51+00:00,0.0,0.0,1.0,0.0
+Economics,US says deal with Beijing will expedite rare earth exports from China,2025-06-26 23:20:58+00:00,0.0,0.0,1.0,0.0
+Economics,A Multi-Dimensional Framework for Classifying Economic Systems: The Ten-Axis Taxonomy,2025-06-26 23:17:53+00:00,0.0,0.0,1.0,0.0
+Economics,Republicans remove controversial 'revenge tax' from Trump’s bill,2025-06-26 21:59:07+00:00,-0.6369,0.464,0.536,0.0
+Economics,"Global energy CO2 emissions reached record high last year, report says",2025-06-26 21:29:48+00:00,0.3612,0.0,0.72,0.28
+Economics,Unemployment among young college graduates outpaces overall US joblessness rate,2025-06-26 21:08:14+00:00,-0.4404,0.244,0.756,0.0
+Economics,US trade deficit surges despite Donald Trump's tariffs,2025-06-26 20:19:01+00:00,-0.4019,0.278,0.722,0.0
+Economics,A planned economy with no central planning authority,2025-06-26 20:13:41+00:00,-0.2263,0.232,0.632,0.137
+Economics,How the next financial crisis starts | The climate shocks that could trigger wider market turmoil (Financial Times),2025-06-26 18:40:51+00:00,-0.8481,0.38,0.62,0.0
+Economics,Pound touches near 4-year high as Trump rattles dollar,2025-06-26 18:19:01+00:00,0.0,0.0,1.0,0.0
+Economics,Russian Banks Fear Debt Crisis Is Coming as War Strains Economy,2025-06-26 17:48:08+00:00,-0.9423,0.726,0.274,0.0
+Economics,"Argentina GDP growth fastest since 2022, Higher GDP growth than the Western world and even China.",2025-06-26 17:36:37+00:00,0.6369,0.0,0.729,0.271
+Economics,"India-US trade talks stall over tariff cuts on farm goods, autos and steel",2025-06-26 16:43:57+00:00,-0.4588,0.267,0.733,0.0
+Economics,GDP data shows U.S. economy shrank more than previously thought in early 2025,2025-06-26 16:39:37+00:00,0.0,0.0,1.0,0.0
+Economics,Why America’s hospitals don’t want their taxes cut,2025-06-26 16:34:28+00:00,-0.2023,0.223,0.638,0.138
+Economics,Older Adults Outnumber Children in 11 States and Nearly Half of U.S. Counties,2025-06-26 16:17:37+00:00,0.0,0.0,1.0,0.0
+Economics,College graduates face toughest job market in more than a decade as hiring slows,2025-06-26 15:35:11+00:00,-0.0772,0.091,0.909,0.0
+Economics,Shadow Fed Chair — and Powell’s nuclear option to counter it,2025-06-26 15:05:13+00:00,0.0,0.0,1.0,0.0
+Economics,The Impact of Trade Liberalization in the Presence of Political Distortions,2025-06-26 14:37:03+00:00,0.0,0.0,1.0,0.0
+Economics,Trump’s “revenge tax” on other countries could hit the U.S.,2025-06-26 14:25:57+00:00,0.0,0.0,1.0,0.0
+Economics,"The US dollar and the future of the world | David McWilliams, Janne Teller, Rana Mitter",2025-06-26 13:57:57+00:00,0.0,0.0,1.0,0.0
+Economics,Trump’s war against Fed Chair Jerome Powell is crushing the value of the U.S. dollar,2025-06-26 13:20:06+00:00,-0.6124,0.308,0.577,0.115
+Economics,GDP: The US economy shrank much faster in the first quarter than previously reported,2025-06-26 13:14:40+00:00,0.0,0.0,1.0,0.0
+Economics,"U.S. economy shrank 0.5% between January and March, worse than earlier estimates revealed",2025-06-26 13:10:24+00:00,-0.4767,0.205,0.795,0.0
+Economics,Recurring US Jobless Claims Jump to Highest Since November 2021,2025-06-26 12:57:07+00:00,0.0,0.0,1.0,0.0
+Economics,"GDP contracts further than expected, signaling economic slowdown",2025-06-26 12:42:44+00:00,0.0,0.0,1.0,0.0
+Economics,US real GDP growth in Q1 2025 was revised down from -0.2% in the 2nd estimate to -0.5% in the 3rd estimate (BEA),2025-06-26 12:37:53+00:00,0.3818,0.0,0.894,0.106
+Economics,Dollar falls to three-year low after report Trump may name next Fed chair early,2025-06-26 11:44:09+00:00,-0.2732,0.139,0.861,0.0
+Economics,How OnlyFans transformed porn,2025-06-26 09:30:46+00:00,0.0,0.0,1.0,0.0
+Economics,25% Auto Tariffs,2025-06-26 06:40:59+00:00,0.0,0.0,1.0,0.0
+Economics,Trump’s tariff war: Canada expected to keep NAFTA 2.0 ‘carve-out’ in new US trade deal,2025-06-26 03:56:54+00:00,-0.5994,0.218,0.782,0.0
 Economics,“Fault-Finder Is a Minimum-Wage Job”,2025-06-25 23:29:24+00:00,0.0,0.0,1.0,0.0
 Economics,Divided Fed proposes rule to ease capital requirements for big Wall Street banks,2025-06-25 22:30:43+00:00,0.3612,0.0,0.828,0.172
 Economics,"Buy Now, Pay Later loans will factor in to Americans’ credit scores",2025-06-25 20:22:27+00:00,0.296,0.1,0.714,0.186
@@ -4112,7 +4172,6 @@ Economics,Effort to strip Fed of interest paying power seen likely to bring uphe
 Economics,The global economy reels amid rising oil and gold prices and escalating tensions,2025-06-13 13:16:33+00:00,-0.4019,0.184,0.816,0.0
 Economics,"Where’s the Inflation From Tariffs? Just Wait, Economists Say.",2025-06-13 10:38:50+00:00,0.0,0.0,1.0,0.0
 Economics,What happens when humanitarian aid is cut or delayed?,2025-06-13 10:33:15+00:00,-0.4588,0.364,0.636,0.0
-Economics,Money blog: Oil prices soar to highest level in two months - and drivers could feel effect in days | Money News,2025-06-13 08:26:24+00:00,0.0,0.0,1.0,0.0
 Economics,Windsor Stellantis returning to full shifts earlier than anticipated,2025-06-13 04:32:28+00:00,0.0,0.0,1.0,0.0
 Economics,Trump say he may soon hike auto tariffs to get more US production,2025-06-13 04:22:34+00:00,0.0,0.0,1.0,0.0
 Economics,Global oil prices soar after Israel attacks Iran,2025-06-13 04:12:21+00:00,-0.4404,0.293,0.707,0.0
@@ -4851,36 +4910,45 @@ Economics,Saudi Arabia’s $600B US bet: can high oil prices and Trump’s low g
 Economics,Dutch chip equipment supplier ASM to pass tariff costs to buyers,2025-05-16 05:49:40+00:00,0.0,0.0,1.0,0.0
 Economics,France relatively insulated from tariff tensions: Goldman Sachs,2025-05-16 05:42:44+00:00,-0.4019,0.278,0.722,0.0
 Economics,China’s rising consumer demand proves to be a good opportunity for Latin American and Caribbean exports.,2025-05-16 05:09:11+00:00,0.6369,0.074,0.644,0.282
-Economics,Third round of US-Japan tariff talks may be held next week; report,2025-05-16 04:55:33+00:00,0.0,0.0,1.0,0.0
-Economics,Japan's economy contracts by a more than expected 0.2% from prior three months as exports fall,2025-05-16 02:04:14+00:00,0.0,0.0,1.0,0.0
-Economics,China to US container bookings soar nearly 300% after trade war truce,2025-05-16 00:17:00+00:00,-0.5994,0.262,0.738,0.0
-Economics,Inflation is dropping but these prices are still soaring,2025-05-15 23:40:42+00:00,0.0,0.0,1.0,0.0
-Economics,Seeing prices going up based on an alternative source of inflation measurement,2025-05-15 21:32:49+00:00,0.0,0.0,1.0,0.0
-Economics,"Tariffs hitting shoppers in Canada and U.S., with some prices set to rise at Loblaw stores, Walmart",2025-05-15 21:28:36+00:00,0.0,0.0,1.0,0.0
-Economics,Walmart shoppers to face price hikes as Trump tariffs hit,2025-05-15 21:10:43+00:00,0.0,0.0,1.0,0.0
-Economics,"U.S. Legal Cannabis Sales Reach $2.17 Billion in April, Pushing 2025 Total to Over $8.3 Billion",2025-05-15 19:16:59+00:00,0.1531,0.0,0.843,0.157
-Economics,Powell warns of more volatile inflation as latest data shows impact from tariffs,2025-05-15 18:54:56+00:00,-0.1027,0.104,0.896,0.0
-Economics,S.E.C. Investigating Whether Coinbase Misstated Its User Numbers,2025-05-15 18:22:52+00:00,0.0,0.0,1.0,0.0
-Economics,"Uncertainty over (Trade) Policy Will Cut Hiring and Investment, Say Business Execs (Atlanta Fed)",2025-05-15 17:52:57+00:00,-0.5423,0.273,0.727,0.0
-Economics,Deep dive into the US cargo theft crisis,2025-05-15 17:52:20+00:00,-0.6249,0.369,0.631,0.0
-Economics,US firm to build $1.3 billion battery materials plant in Poland,2025-05-15 17:19:30+00:00,0.0,0.0,1.0,0.0
-Economics,'Too good to be true': investors eye Syria after Trump sanctions move,2025-05-15 16:59:11+00:00,0.6908,0.0,0.637,0.363
-Economics,Tipping Point: How America’s Gratuity System Got Out of Hand,2025-05-15 14:53:54+00:00,0.4939,0.0,0.738,0.262
-Economics,Trump: India has offered US a trade deal with no tariffs | Reuters,2025-05-15 14:44:24+00:00,-0.296,0.155,0.845,0.0
-Economics,"TikTok breached EU advertising transparency laws, commission says",2025-05-15 14:20:48+00:00,0.0,0.0,1.0,0.0
-Economics,"Walmart CFO says price hikes from tariffs could start later this month, as retailer beats on earnings",2025-05-15 14:09:47+00:00,0.0,0.0,1.0,0.0
-Economics,COVID-19 eviction moratoria reduced report rates of child abuse by up to 21%,2025-05-15 14:05:37+00:00,-0.802,0.396,0.604,0.0
-Economics,Trump’s Middle East tour has more substance than the White House let on,2025-05-15 12:25:31+00:00,0.0,0.0,1.0,0.0
-Economics,OECD unemployment rate broadly stable at 4.9% in March 2025 (OECD),2025-05-15 12:12:29+00:00,-0.1779,0.206,0.638,0.156
-Economics,"Euro area Q1 2025 GDP growth was revised down to 0.3% QoQ in the 2nd estimate, down from 0.4% QoQ in the first estimate (Eurostat)",2025-05-15 11:43:01+00:00,0.3818,0.0,0.902,0.098
-Economics,US poised to dial back bank rules imposed in wake of 2008 crisis,2025-05-15 11:02:47+00:00,-0.5267,0.31,0.575,0.115
-Economics,UK GDP is estimated to have grown by 0.7% in Q1 2025 (ONS),2025-05-15 10:42:53+00:00,0.0,0.0,1.0,0.0
-Economics,UK becomes fastest-growing G7 economy after strong first quarter,2025-05-15 10:29:15+00:00,0.5106,0.0,0.708,0.292
-Economics,Ice cream without chocolate? Tariffs leave some small businesses scrambling.,2025-05-15 09:45:49+00:00,0.0382,0.0,0.887,0.113
-Economics,Industrial production up by 2.6% in the euro area and by 1.9% in the EU - Euro indicators,2025-05-15 09:28:43+00:00,0.0,0.0,1.0,0.0
-Economics,Trump’s tariffs are changing the way Americans spend,2025-05-15 08:13:47+00:00,0.0,0.0,1.0,0.0
-Economics,"Tariffs devastated America’s ports. Soon, they could face a surge from stockpiling",2025-05-15 08:11:47+00:00,-0.6124,0.267,0.733,0.0
-Economics,Justin Wolfers: Trump's Centrally Planned Economy,2025-05-15 07:51:05+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,"Wallet Daily rates 0-4% not APY Rates, Explain?",2025-06-26 23:04:29+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Robinhood 1-2% crypto deposit bonus worthwhile?,2025-06-26 23:00:53+00:00,0.7096,0.0,0.404,0.596
+cryptocurrency,Another one bites the dust,2025-06-26 20:52:24+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,University of Texas Leases Land to Mine Bitcoin (BTC) and Generate Cash for Hundreds of Thousands of Students,2025-06-26 20:44:52+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Ethereum Ecosystem Generates $7.3 Billion in Revenue Over Past Year,2025-06-26 19:56:17+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,IRS quietly hits thousands of Bitcoin users with warning letters,2025-06-26 19:48:04+00:00,-0.34,0.211,0.789,0.0
+cryptocurrency,Coinbase Shares Hit an All-Time High as US Crypto Stocks Rally,2025-06-26 19:30:48+00:00,0.296,0.0,0.82,0.18
+cryptocurrency,Wen you held the wrong rocket,2025-06-26 19:20:44+00:00,-0.4767,0.383,0.617,0.0
+cryptocurrency,Judge drops bomb on Ripple: XRP loses $2 billion in one hour,2025-06-26 17:42:51+00:00,-0.6705,0.355,0.645,0.0
+cryptocurrency,Trump-linked World Liberty sells $100 million in WLFI tokens to UAE-based fund,2025-06-26 17:41:51+00:00,0.5267,0.0,0.764,0.236
+cryptocurrency,Greece Just Stopped a $1.5Bn Crypto Heist: This Is How Athens Saved Your Bags,2025-06-26 17:12:23+00:00,0.2263,0.114,0.719,0.168
+cryptocurrency,"Another Week, Another Ethereum Record - 24.45 Million Transactions in 7 Days",2025-06-26 16:41:09+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,If only 5% of the population owns BTC what is the use case?,2025-06-26 16:03:18+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,What wallet can I use for Syrup?,2025-06-26 16:00:15+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,"Kraken Launches Krak, A No-Fee App To Use And Store Crypto",2025-06-26 15:40:50+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Anthony Pompliano’s crypto venture buys $386M in Bitcoin,2025-06-26 15:07:25+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,"Daily Crypto Discussion - June 26, 2025 (GMT+0)",2025-06-26 15:02:09+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Ai Apis / Algorithmic Trading,2025-06-26 15:01:27+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Monero-only hacker IntelBroker caught after accepting Bitcoin from FBI,2025-06-26 14:58:09+00:00,0.3818,0.0,0.755,0.245
+cryptocurrency,The Clown Show Continues: Stuart Alderoty’s XRP Fiasco Exposes Corporate Greed,2025-06-26 14:41:58+00:00,-0.7579,0.484,0.516,0.0
+cryptocurrency,ICERaid: the most disgusting use case lead by the most incompetent people,2025-06-26 14:33:12+00:00,-0.7956,0.415,0.585,0.0
+cryptocurrency,Citibank accused of ignoring signs of $20M crypto romance scam,2025-06-26 14:28:36+00:00,-0.6124,0.473,0.33,0.198
+cryptocurrency,The Fed Just Made It Easier for Banks to Work With Crypto,2025-06-26 14:27:24+00:00,0.4215,0.0,0.797,0.203
+cryptocurrency,I’ve Been Using This Chart Analysis Trick to Buy the Dip — Fib Retracement Guide,2025-06-26 14:27:18+00:00,-0.0516,0.079,0.921,0.0
+cryptocurrency,Trading Crypto on Ledger & Safety Concerns...?,2025-06-26 14:07:15+00:00,0.4215,0.0,0.682,0.318
+cryptocurrency,Kraken Becomes Latest to Win a License Under Europe's New Rules Enabling to Operate across 27 EU States,2025-06-26 13:40:46+00:00,0.5859,0.0,0.817,0.183
+cryptocurrency,Moon Week 63,2025-06-26 13:08:38+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,CCIP-114 - Daily Discussion Time,2025-06-26 13:00:03+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Taurus Crypto Custodian Taurus Launches Contract With Privacy Features,2025-06-26 12:55:38+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,N. Korean Group BlueNoroff Using Deepfake Zoom Calls in Crypto Scams,2025-06-26 12:40:49+00:00,-0.5859,0.275,0.725,0.0
+cryptocurrency,Coinbase claims ‘key role’ in Secret Service’s biggest-ever crypto seizure,2025-06-26 12:27:06+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,"AMA with Obyte, a DAG based OG crypto",2025-06-26 09:00:48+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Was Iran’s Nobitex Laundering Crypto Before the $90 Million Hack?,2025-06-26 06:32:51+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Ethereum could soon run twice as fast with the new 6-second block proposal,2025-06-26 05:25:01+00:00,-0.4404,0.195,0.805,0.0
+cryptocurrency,"Metaplanet Overtakes Tesla With 12,345 BTC, Becomes No. 7 Bitcoin Holder",2025-06-26 05:17:25+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,Why Fartcoin is going to $2 - an anal-ysis,2025-06-26 05:13:33+00:00,0.0,0.0,1.0,0.0
+cryptocurrency,‘Fiat is fading’ — USD lowest in 3 years as Bitcoin reclaims $107K,2025-06-26 05:01:18+00:00,-0.3818,0.178,0.822,0.0
+cryptocurrency,Pompliano’s Procap Boosts Bitcoin Holdings to Nearly 5K BTC,2025-06-26 04:01:59+00:00,0.3182,0.0,0.777,0.223
+cryptocurrency,BItcoin Price (BTC) News: FHFA to Allow Crypto Holdings as Part of Applicant Assets,2025-06-26 01:28:06+00:00,0.3818,0.0,0.769,0.231
 cryptocurrency,Boom when?,2025-06-26 00:37:35+00:00,0.0,0.0,1.0,0.0
 cryptocurrency,The best to ever do it,2025-06-25 23:13:04+00:00,0.6369,0.0,0.543,0.457
 cryptocurrency,Crypto Markets Today,2025-06-25 22:42:28+00:00,0.0,0.0,1.0,0.0
@@ -4955,7 +5023,6 @@ cryptocurrency,Be cautious of potential Scam - Suspicious FTX Repayment Email re
 cryptocurrency,Chainlink and Mastercard Partner to Enable Over 3 Billion Cardholders to Purchase Crypto Directly Onchain,2025-06-24 14:23:21+00:00,0.0,0.0,1.0,0.0
 cryptocurrency,It Is Very Likely That the Cycles Are Over,2025-06-24 14:18:07+00:00,0.0,0.0,1.0,0.0
 cryptocurrency,Japan Proposes Crypto Reform to Allow Bitcoin ETFs and Slash Crypto Taxes,2025-06-24 14:00:30+00:00,-0.0516,0.15,0.714,0.136
-cryptocurrency,LIVE: Fed Chair Jerome Powell Testifies Monetary Policy Report,2025-06-24 13:53:25+00:00,0.0,0.0,1.0,0.0
 cryptocurrency,We got played .,2025-06-24 13:40:14+00:00,0.34,0.0,0.556,0.444
 cryptocurrency,"Isn't the use of the term ""stablecoin"" a public deception?",2025-06-24 13:14:19+00:00,-0.4404,0.244,0.756,0.0
 cryptocurrency,Japan Could Soon Approve Crypto ETFs Under New FSA Plan,2025-06-24 13:09:42+00:00,0.0,0.0,1.0,0.0
@@ -5197,7 +5264,6 @@ cryptocurrency,The Federal Reserve has decided not to cut or hike interest rates
 cryptocurrency,FOMC Live Stream: FED Chair Powell Speaks,2025-06-18 17:13:35+00:00,0.0,0.0,1.0,0.0
 cryptocurrency,Battle of the financial minds.,2025-06-18 16:51:13+00:00,-0.3818,0.394,0.606,0.0
 cryptocurrency,"Arthur Hayes Sounds Alarm on Emerging ‘Stablecoin Mania,’ Warns of Potential Repeat of Terra Luna’s $40,000,000,000 Collapse",2025-06-18 16:49:28+00:00,-0.7184,0.333,0.667,0.0
-cryptocurrency,Will A.I. and quantum computers destroy Crypto?,2025-06-18 16:33:20+00:00,-0.5423,0.368,0.632,0.0
 cryptocurrency,How do I invest and get into crypto when I'm broke?,2025-06-18 16:11:02+00:00,-0.4215,0.219,0.781,0.0
 cryptocurrency,Could the GENIUS Act Be the Turning Point for Stablecoins?,2025-06-18 15:34:06+00:00,0.0,0.0,1.0,0.0
 cryptocurrency,How a fake tweet from Paraguay pushed Bitcoin to $110K,2025-06-18 15:33:37+00:00,-0.4767,0.256,0.744,0.0
@@ -5615,47 +5681,54 @@ cryptocurrency,"Bigger than Coca-Cola? If Tether went public, it could reach a $
 cryptocurrency,Coinbase says it’s tackling frozen accounts in ‘major issue’,2025-06-09 06:42:29+00:00,0.0,0.0,1.0,0.0
 cryptocurrency,"🔥 TODAY: Binance releases its 31st Proof of Reserves report, showing a slight dip in user assets.",2025-06-09 06:19:52+00:00,-0.1779,0.126,0.785,0.089
 cryptocurrency,"Nasdaq Adds XRP, SOL, ADA, XLM to Crypto Index",2025-06-09 05:34:16+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,"Why ""Connectivity Over Constructs"" is a Game Changer for Hive.",2025-06-09 04:32:34+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Ethereum Staking Reaches Record Highs as 32.8M ETH Locked Away,2025-06-08 19:59:51+00:00,0.0516,0.0,0.882,0.118
-cryptocurrency,Bitcoin Holds Above $106K as U.S. Defense Secretary Threatens to Deploy Marines in LA,2025-06-09 03:35:02+00:00,-0.2732,0.161,0.745,0.093
-cryptocurrency,Where should I store my money?,2025-06-09 03:16:37+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Question about Tether and taxes,2025-06-09 01:55:04+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,What if a crypto exchange was actually built by traders?,2025-06-08 23:33:07+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Proof-of-Reserves: Is it applicable to MicroStrategy?,2025-06-08 22:44:43+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,The IPO of Circle COULD NOT have gone better! Huge success,2025-06-08 21:36:22+00:00,0.5975,0.144,0.479,0.377
-cryptocurrency,New Yorkers Warned of Fake QR Codes Being Placed on Parking Meters That Steal Victims’ Payment Information,2025-06-08 21:01:04+00:00,-0.8126,0.375,0.625,0.0
-cryptocurrency,Dubai real estate sales hit $18B in May amid tokenization push,2025-06-08 20:26:32+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Monetize Your Crypto X Activity With Kaito Yaps,2025-06-08 20:03:51+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Peak Male Living in 2025,2025-06-08 19:15:09+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,The Discreet Boom Of Stablecoins Since January 2025: Tether Hits Hard With $1.45 Billion In 7 Days,2025-06-08 17:00:11+00:00,-0.1027,0.08,0.92,0.0
-cryptocurrency,Ethereum Foundation Unveils New Treasury Strategy to Secure Its ETH Reserves,2025-06-08 16:29:43+00:00,0.4939,0.0,0.682,0.318
-cryptocurrency,Is it possible to lose usdc from my wallet,2025-06-08 15:59:29+00:00,-0.4019,0.252,0.748,0.0
-cryptocurrency,"Coinbase, BiT Global End Legal Fight Over WBTC Delisting",2025-06-08 15:44:27+00:00,-0.2732,0.234,0.631,0.135
-cryptocurrency,The rCryptoCurrency Moon Week 62 Moon Burn Update and a slight change on third party banner customizations,2025-06-08 15:25:07+00:00,0.4019,0.0,0.856,0.144
-cryptocurrency,"Daily Crypto Discussion - June 8, 2025 (GMT+0)",2025-06-08 15:01:12+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,North Korean IT Workers Stole US Identities to Launder $7.7 Million in Crypto,2025-06-08 14:44:15+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Michael Saylor teases fresh Bitcoin buy after $1B stock offering,2025-06-08 14:19:00+00:00,0.0258,0.176,0.64,0.184
-cryptocurrency,"Bitcoin Maximalism is Dead, Long Live Bitcoin Pragmatism",2025-06-08 13:54:03+00:00,-0.6486,0.381,0.619,0.0
-cryptocurrency,"After a $100 Million Loss, What’s Next for the Hyperliquid’s James Wynn?",2025-06-08 13:20:06+00:00,-0.3182,0.173,0.827,0.0
-cryptocurrency,SGX Global and strategy change,2025-06-08 13:17:33+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Singapore’s ousted crypto firms may not find shelter elsewhere,2025-06-08 13:08:53+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Stacks-based Alex Lab to reimburse users after $8.3 million exploit as token drops 45%,2025-06-08 12:40:51+00:00,-0.1027,0.097,0.903,0.0
-cryptocurrency,Ethereum Head & Shoulders Pattern Breakdown: Can Bulls Reclaim Control?,2025-06-08 12:14:01+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Trump’s crypto ventures may be his most dangerous moneymaking scheme | Mohamad Bazzi,2025-06-08 10:10:33+00:00,-0.5256,0.22,0.78,0.0
-cryptocurrency,The 'Bitcoin Family' has split and hidden seed phrase across 4 continents amid rising kidnappings,2025-06-08 09:21:18+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,"Tether CEO snubs IPO, says $515B valuation is &#039;a bit bearish’",2025-06-08 09:17:00+00:00,-0.4767,0.237,0.763,0.0
-cryptocurrency,Romania’s Postal Service Pioneers Cryptocurrency Installs First Bitcoin ATM in Tulcea,2025-06-08 08:16:33+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Bitcoin core devs' joint statement sparks heated debate among Bitcoiners,2025-06-08 07:56:02+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Fair markets are the markets with no volatility,2025-06-08 07:49:12+00:00,0.0258,0.21,0.571,0.219
-cryptocurrency,Nano's protest,2025-06-08 03:44:20+00:00,-0.25,0.667,0.333,0.0
-cryptocurrency,Thinking about buying XRP again,2025-06-08 03:12:24+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Bought my first BTC.,2025-06-08 03:00:37+00:00,0.0,0.0,1.0,0.0
-cryptocurrency,Bitcoin as the backbone of world economies: what does the future look like?,2025-06-08 02:31:22+00:00,0.3612,0.0,0.828,0.172
-cryptocurrency,"Turned $200 into $30,000. Sold it all in 2018. Felt like a genius. But that was just the beginning 🧵 👇",2025-06-08 02:01:13+00:00,0.1901,0.0,0.929,0.071
-cryptocurrency,Scammers wanting to buy used Phantom wallets?,2025-06-08 00:27:50+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,My only regret is not having more to invest,2025-06-26 00:44:12+00:00,-0.4215,0.259,0.741,0.0
+wallstreetbets,Nke IV crush…,2025-06-27 00:37:35+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Thanks for the fish QS,2025-06-27 00:31:40+00:00,0.4404,0.0,0.58,0.42
+wallstreetbets,CRCL Losses,2025-06-26 23:56:11+00:00,-0.4019,0.73,0.27,0.0
+wallstreetbets,I cut my APPL call loss and went into INTC puts.,2025-06-26 23:00:22+00:00,-0.5267,0.328,0.672,0.0
+wallstreetbets,“I sold Monday morning after the Iran bombings this weekend”,2025-06-26 22:44:00+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"It's not much, but it's honest work.",2025-06-26 22:33:55+00:00,0.6652,0.0,0.574,0.426
+wallstreetbets,How much did I print,2025-06-26 22:26:06+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"Nike says tariffs will cost it $1 billion before price increases, supply chain shifts",2025-06-26 22:23:04+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,All in for KOHLS!,2025-06-26 21:47:20+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"+$12,503.06, Day 2 of massive gains from SunRun call options. +$20,652.27 in total",2025-06-26 21:02:37+00:00,0.34,0.0,0.833,0.167
+wallstreetbets,Apple Executives Have Held Internal Talks About Buying AI Startup Perplexity,2025-06-26 20:51:32+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,$3700 to $20000,2025-06-26 20:31:32+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,RKLB!!!!!!!!!!!!!!,2025-06-26 20:20:01+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Gain porn,2025-06-26 20:08:43+00:00,0.5267,0.0,0.227,0.773
+wallstreetbets,Guess who is back?,2025-06-26 20:05:23+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Thanks $CORZ,2025-06-26 20:02:36+00:00,0.4404,0.0,0.256,0.744
+wallstreetbets,IREN,2025-06-26 20:01:56+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"What Are Your Moves Tomorrow, June 27, 2025",2025-06-26 19:59:35+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,🚨 What’s the play if Trump’s 90-day tariff freeze ends July 9 and markets freak?,2025-06-26 19:57:17+00:00,-0.0772,0.141,0.683,0.176
+wallstreetbets,Leaps make grandpa proud,2025-06-26 19:16:47+00:00,0.4767,0.0,0.492,0.508
+wallstreetbets,Can’t stop winning with NVDA,2025-06-26 18:10:55+00:00,0.296,0.256,0.349,0.395
+wallstreetbets,Rags to riches CORZ,2025-06-26 18:04:40+00:00,0.5267,0.0,0.469,0.531
+wallstreetbets,Jim Cramer on Oklo: “Nuclear is Coming Back”,2025-06-26 17:54:49+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,From $5k to $200k. Thank you NVDA! Only took 8 years 👴,2025-06-26 17:37:42+00:00,0.4199,0.0,0.811,0.189
+wallstreetbets,$GLXY gains so far. Rotation from COIN and CRCL ipo confirmed. As well as an oversized capital raise today.,2025-06-26 17:28:04+00:00,0.5423,0.0,0.791,0.209
+wallstreetbets,"I was down 15K on these thinking it was free money, wasn't free for sure",2025-06-26 16:46:11+00:00,-0.0936,0.234,0.601,0.165
+wallstreetbets,HIMS hires former Robinhood VP of product as their CPO,2025-06-26 16:39:55+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Coreweave in talks to buy CORZ,2025-06-26 16:33:44+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,LEAP 40 bagger 🤯 RKLB just getting started.,2025-06-26 16:15:45+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,+$46k in 6 months.,2025-06-26 15:56:29+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"Hitting the jackpot of Xiaomi Yu7, earn a small fortune",2025-06-26 15:42:30+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"30x CRCL 245P  $80K In -$26K Unrealized, Where My Bull Market?",2025-06-26 15:23:03+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Coinbase,2025-06-26 15:09:23+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,CHWY time,2025-06-26 15:08:07+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Loss porn!,2025-06-26 12:44:00+00:00,-0.3802,0.722,0.278,0.0
+wallstreetbets,HODLing Till I Can Buy A House,2025-06-26 12:10:40+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Am I doing this right?,2025-06-26 11:25:00+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,Let’s try this again,2025-06-26 10:59:17+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"Daily Discussion Thread for June 26, 2025",2025-06-26 10:14:53+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,$SANA unequivocally has Type 1 Diabetes cure and is massively undervalued. The case for $10B+ valuation and 10-20X+ returns.,2025-06-26 10:14:44+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,$NVDA semi momentum play,2025-06-26 07:21:42+00:00,0.34,0.0,0.556,0.444
+wallstreetbets,Go Gay Bears!!!,2025-06-26 06:27:37+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,$BULL 100k yolo,2025-06-26 06:19:20+00:00,0.2732,0.0,0.488,0.512
+wallstreetbets,Why does Consulting even exist?,2025-06-26 06:08:25+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,AMD to the mooooon,2025-06-26 03:44:18+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,NVDA BOLS,2025-06-26 03:25:04+00:00,0.0,0.0,1.0,0.0
+wallstreetbets,"After years of trial and error, I think I've finally got the hang of this. My end goal is a 100% win rate, wish me luck!",2025-06-26 01:10:52+00:00,0.7959,0.078,0.638,0.284
 wallstreetbets,Thank you trump for the dip buy,2025-06-26 00:28:25+00:00,0.3612,0.0,0.706,0.294
-wallstreetbets,Am I doing this right?,2025-06-25 23:08:14+00:00,0.0,0.0,1.0,0.0
 wallstreetbets,100% YTD - Tradurrr,2025-06-25 22:23:57+00:00,0.0,0.0,1.0,0.0
 wallstreetbets,Diamond Hands Babyyyyy 💎💎💎,2025-06-25 22:05:45+00:00,0.34,0.0,0.769,0.231
 wallstreetbets,"Fannie Mae, Freddie Mac ordered to consider crypto as an asset when buying mortgages",2025-06-25 21:19:32+00:00,0.3612,0.0,0.839,0.161
@@ -5747,7 +5820,6 @@ wallstreetbets,CLBR lost,2025-06-23 18:18:50+00:00,-0.3182,0.697,0.303,0.0
 wallstreetbets,You’re welcome bulls 😈,2025-06-23 17:51:22+00:00,0.7184,0.0,0.455,0.545
 wallstreetbets,I’ll never sell again,2025-06-23 17:47:10+00:00,0.0,0.0,1.0,0.0
 wallstreetbets,Diamond handed that mf,2025-06-23 17:46:47+00:00,0.34,0.0,0.556,0.444
-wallstreetbets,"Driverless taxis represent a huge capital flow, with tsla making a profit of $72K",2025-06-23 17:44:03+00:00,0.6369,0.0,0.698,0.302
 wallstreetbets,$GOOG will be my retirement ticket 🎫,2025-06-23 17:42:07+00:00,0.0,0.0,1.0,0.0
 wallstreetbets,TESLA $72k —> $98k IN 3 HOURS,2025-06-23 17:28:01+00:00,0.0,0.0,1.0,0.0
 wallstreetbets,Iran launches missiles? It's already priced in,2025-06-23 17:19:14+00:00,0.0,0.0,1.0,0.0
@@ -6421,42 +6493,3 @@ wallstreetbets,DISNEY prospects,2025-05-28 23:29:16+00:00,0.296,0.0,0.312,0.688
 wallstreetbets,FUTURES RISE AS FEDERAL TRADE COURT BLOCKS TRUMP'S GLOBAL TARIFFS,2025-05-28 23:18:59+00:00,-0.2263,0.174,0.826,0.0
 wallstreetbets,Should I exit or Let them assigned at expiration?,2025-05-28 22:32:53+00:00,0.0,0.0,1.0,0.0
 wallstreetbets,See you in Premarket NVDA bears,2025-05-28 21:27:33+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,"FUBO Gearing Up for Disney Deal — Clean 8-K, $20 PT 🚀",2025-05-28 20:58:17+00:00,0.4019,0.0,0.803,0.197
-wallstreetbets,"Tesla targets June 12 launch for robotaxi service in Austin, Bloomberg News reports",2025-05-28 20:54:49+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,"What Are Your Moves Tomorrow, May 29, 2025",2025-05-28 20:26:37+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,Nvidia earnings are out – here are the numbers,2025-05-28 20:23:33+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,"HP sinks 15% as company misses on earnings, guidance due to 'added cost' from tariffs",2025-05-28 20:20:15+00:00,-0.2263,0.119,0.881,0.0
-wallstreetbets,Caught the SPX dump $1000 to $4750 in 10 minutes on $5900p 0DTE!,2025-05-28 20:07:53+00:00,-0.4389,0.194,0.806,0.0
-wallstreetbets,Youtube? And what is TV? Is Netflix not TV?,2025-05-28 20:07:22+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,"Before collecting losses, a regard always waits",2025-05-28 19:55:33+00:00,-0.4019,0.31,0.69,0.0
-wallstreetbets,$AVGO profits totaled $493%,2025-05-28 19:48:02+00:00,0.4404,0.0,0.508,0.492
-wallstreetbets,Trump orders U.S. firms to halt chip software sales to China,2025-05-28 19:46:07+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,$14k on RDDT calls,2025-05-28 18:52:14+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,"$FNMA & $ FMCC TO THE MOON!  You better get some while the getting is good.  1,826.42% and going, going, gone, 1 account out of 4!",2025-05-28 18:12:16+00:00,0.7494,0.0,0.79,0.21
-wallstreetbets,$RXRX YOLO,2025-05-28 17:58:45+00:00,0.2732,0.0,0.323,0.677
-wallstreetbets,"Should I put the fries in the bag now, or wait until after earnings? ($AI, $CRM earnings plays)",2025-05-28 17:20:02+00:00,0.25,0.0,0.895,0.105
-wallstreetbets,Should I sell before earnings or no,2025-05-28 16:28:29+00:00,-0.296,0.268,0.732,0.0
-wallstreetbets,Buy high sell low,2025-05-28 16:26:01+00:00,-0.2732,0.412,0.588,0.0
-wallstreetbets,"+$46k on AVGO, moving it all into NBIS",2025-05-28 15:06:58+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,NVDA 50K Put credit spread,2025-05-28 14:45:32+00:00,0.3818,0.0,0.606,0.394
-wallstreetbets,Reddit (RDDT) getting added to all Russell indexes June 27th,2025-05-28 14:14:22+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,Double down from a month ago wasn't such a bad idea afterall 😉,2025-05-28 14:00:03+00:00,0.431,0.0,0.82,0.18
-wallstreetbets,Exit early!You’re only a real winner when you take the profits,2025-05-28 13:53:20+00:00,0.7901,0.0,0.563,0.437
-wallstreetbets,ANF was obvious,2025-05-28 13:40:13+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,Are we still long UNH around here?,2025-05-28 13:09:04+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,"$BE 150k YOLO, Waiting For News.",2025-05-28 12:55:59+00:00,0.4278,0.0,0.638,0.362
-wallstreetbets,"Daily Discussion Thread for May 28, 2025",2025-05-28 10:14:47+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,You all told me to sell and guess what I did?,2025-05-28 10:12:21+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,Not sure what to do next -Crypto/Coinbase,2025-05-28 07:55:11+00:00,-0.2411,0.246,0.754,0.0
-wallstreetbets,"Japan's bond market ignites fears of outflows from U.S., carry trade unwind and market turmoil",2025-05-28 06:06:42+00:00,-0.6486,0.29,0.71,0.0
-wallstreetbets,My confidence in the Platinum bull run of 2025 (PPLT @ $100k),2025-05-28 05:37:09+00:00,0.5106,0.0,0.769,0.231
-wallstreetbets,+$19k on the month so far. Staying consistent despite a few L’s,2025-05-28 05:01:28+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,“Google thoughts”,2025-05-28 03:13:13+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,ANET (NVDA Sympathy Yolo). 96.5 May 30 call,2025-05-28 01:48:16+00:00,0.5574,0.0,0.566,0.434
-wallstreetbets,Time to sell PLTR?,2025-05-28 01:37:59+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,I think I’ll ride this out a little longer,2025-05-28 00:34:56+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,Hinge Health (HNGE): Is Digital Health the future of medicine or the latest AI gimmick?,2025-05-27 23:13:24+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,How fucked am I,2025-05-27 22:28:18+00:00,-0.6597,0.595,0.405,0.0
-wallstreetbets,50k on NVDA,2025-05-27 22:27:56+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,"I’m still here, MRVL Calls 08/15",2025-05-27 22:19:39+00:00,0.0,0.0,1.0,0.0
-wallstreetbets,$DECK $110 7/18 Calls (~$50k YOLO),2025-05-27 22:05:34+00:00,0.4278,0.0,0.638,0.362
