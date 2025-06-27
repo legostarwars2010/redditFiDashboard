@@ -1,45 +1,60 @@
-# RedditFiDashboard 📈🧠
+# 📉 Reddit Sentiment vs. Market Dashboard
 
-A live dashboard that merges Reddit sentiment from finance-related subreddits with real-time financial data to uncover correlations between public sentiment and market movement.
-
----
+A Streamlit-based interactive dashboard that visualizes how Reddit sentiment correlates with financial market performance. It integrates news discussion data and asset prices for real-time, interpretable analysis.
 
 ## 🔧 Features
-- **Reddit Sentiment Analysis** via VADER
-- **Live Financial Data** from `yfinance`
-- **Streamlit Dashboard** for interactive exploration
-- **Automated ETL** for both Reddit and financials
-- **Clean project structure** (`scripts/`, `data/`, `dashboard/`)
 
----
+- 🧠 **Reddit Sentiment Summarizer** (powered by Groq LLM): AI-generated summaries of subreddit discussions per date and topic.
+- 📈 **Asset Price Tracker**: Line chart for each selected asset’s price over time.
+- 📊 **Sentiment Trends**: Track sentiment across subreddits using compound scores.
+- 🧪 **Emotion Breakdown & Activity Volume**: Stacked area chart of positive/neutral/negative sentiment + Reddit post volume overlay.
+- 🪙 **Sentiment vs. Price Comparison**: Dual-axis view of subreddit sentiment vs asset price.
+- 📌 **Sentiment vs. % Price Change**: Scatter plot to inspect correlation between sentiment and market reaction.
+- 📢 **Dynamic Headline Generator**: Auto-generated title summarizing sentiment shift (bullish/bearish/neutral).
 
-## 📊 Subreddits Tracked
-- r/stocks
-- r/investing
-- r/wallstreetbets
-- r/cryptocurrency
-- r/news
-- r/worldnews
-- r/Economics
-- r/StockMarket
+## 📁 Folder Structure
 
----
+```
+reddit-finance-dashboard/
+├── dashboard/
+│   └── app.py                  # Main Streamlit app
+├── data/
+│   ├── reddit_text.csv         # Raw Reddit comment/title data (past 90 days)
+│   ├── financial_data.csv      # Asset data from yfinance (3-months, intraday if available)
+│   └── merged_data.csv         # Final merged dataset for dashboard
+├── scripts/
+│   ├── reddit_sentiment.py     # Reddit scraping & sentiment preprocessing
+│   ├── financial_data.py       # Yahoo Finance fetcher
+│   ├── process_data.py         # Merges & processes all data
+│   └── summary_generator.py    # Groq summarization interface
+├── .env                        # Your Groq API key
+├── requirements.txt            # Python dependencies
+└── README.md
+```
 
-## 📈 Financial Assets Pulled
-- S&P 500 (`^GSPC`)
-- NASDAQ (`^IXIC`)
-- Dow Jones (`^DJI`)
-- Bitcoin (`BTC-USD`)
-- Ethereum (`ETH-USD`)
-- Gold (`GC=F`)
-- Oil (`CL=F`)
+## ▶️ Run the App
 
----
+```bash
+# Activate your virtual environment (if needed)
+source .venv/bin/activate         # Mac/Linux
+.venv\Scripts\activate            # Windows
 
-## 🏁 Getting Started
+# Run the Streamlit app
+streamlit run dashboard/app.py
+```
 
-1. Clone the repo
-2. Create `.env` file with Reddit API keys
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+## 🧠 Requirements
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+Includes:
+- streamlit  
+- pandas  
+- plotly  
+- yfinance  
+- openai (or groq)  
+- python-dotenv  
